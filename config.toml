@@ -1,0 +1,25 @@
+baseURL = "http://symkowick.org/"
+languageCode = "en-us"
+title = "Hi, I'm Anthony!"
+theme = "hello-friend-ng"
+
+[params]
+    homeSubtitle = "I'm a Full-Stack Developer with 3 years of experience building modern Java & Angular systems." 
+
+# Metadata
+description = "Personal website & blog of Anthony Symkowick."
+keywords = "anthony, symkowick, blog, software, javascript, development, programming"
+images = [""]
+
+# Directory name of blog content
+contentTypeName = "posts"
+
+[[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts"
+# Bug fix the theme main page
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
