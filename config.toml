@@ -1,10 +1,10 @@
 baseURL = "http://symkowick.org/"
 languageCode = "en-us"
-title = "Hi, I'm Anthony!"
+title = "Anthony Symkowick"
 theme = "hello-friend-ng"
 
 [params]
-    homeSubtitle = "I'm a Full-Stack Developer with 3 years of experience building modern Java & Angular systems." 
+    homeSubtitle = "Full-Stack Developer with 3 years of experience building modern Java & Angular systems." 
 
 # Metadata
 description = "Personal website & blog of Anthony Symkowick."

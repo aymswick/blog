@@ -1,9 +1,9 @@
 {{ define "main" }}
+    <link rel="stylesheet" href="/css/main.css">
     <main aria-role="main">
         <div>
-            <img src="/static/images/profile-oval.png">
+            <img id="head" src="images/profile-oval.png">
             <h1>{{ .Site.Title }}</h1>
-
             {{- with .Site.Params.homeSubtitle }}
                 <p>{{.}}</p>
             {{- end }}
