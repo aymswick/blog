@@ -18,8 +18,8 @@ contentTypeName = "posts"
     identifier = "blog"
     name = "Blog"
     url = "/posts"
-# Bug fix the theme main page
 
+# Bug fix the theme main page
 [taxonomies]
   tag      = "tags"
   category = "categories"
