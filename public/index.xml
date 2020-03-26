@@ -6,10 +6,21 @@
     <description>Recent content on Anthony Symkowick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2020 20:25:19 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 10:56:02 -0700</lastBuildDate>
     
 	<atom:link href="http://symkowick.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work Is Cancelled, Thanks COVID-19</title>
+      <link>http://symkowick.org/posts/work-is-cancelled/</link>
+      <pubDate>Thu, 26 Mar 2020 10:56:02 -0700</pubDate>
+      
+      <guid>http://symkowick.org/posts/work-is-cancelled/</guid>
+      <description>!function(){&#34;use stric t&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrappe r-height&#34;][e]+&#34;px&#34;)}})}(); 24  https://www.flattenthecurve.com/
+Hello Compassionate Coders, Free Software Enthusiasts, &amp;amp; the Greater Millenial Workforce Quarantine Squad!
+So, I completed my search. After just over 1 month and after many punishingly difficult (failed) coding tests, I found a great job with great pay and a great work environment. I was all set to move when COVID-19 infection rates began climbing in the United States.</description>
+    </item>
     
     <item>
       <title>Development Environment #1</title>

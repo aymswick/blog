@@ -18,6 +18,10 @@ contentTypeName = "posts"
     identifier = "blog"
     name = "Blog"
     url = "/posts"
+[[menu.main]]
+    identifier = "covid"
+    name = "COVID-19 Data"
+    url="https://www.flattenthecurve.com/"
 
 # Bug fix the theme main page
 [taxonomies]
