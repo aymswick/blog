@@ -8,26 +8,31 @@
                 <p>{{.}}</p>
             {{- end }}
 
-            <a href="resume.pdf" download="Resume_Anthony_Symkowick.pdf">Download Resume</a>
-
-
-            <div style="display: flex; justify-content: center; margin-top: 2em">
-                <h4>Websites I Enjoy:</h4>
+            <div class="card" onclick="window.location.href='/posts/work-is-cancelled'">
+                <h3 class="byline">Latest Post</h3>
+                <h2 class="headline">Work Is Cancelled, Thanks COVID-19</h2>
+                <p>Please stay safe and stay inside!</p>
             </div>
-
-                <a href="https://compassionatecoding.com/"> https://compassionatecoding.com/</a>
-                <br>
-                <a href="https://www.gnome.org/"> https://www.gnome.org/</a>
-                <br>
-                <a href="https://www.khanacademy.org/"> https://www.khanacademy.org/</a>
-            </div>
-
 
             {{- with .Site.Params.social }}
                 <div>
                     {{ partial "social-icons.html" . }}
                 </div>
             {{- end }}
+
+            <div class="card">
+                <h3>Please Support These Sites:</h3>
+                <a href="https://www.gnome.org/"> https://www.gnome.org/</a>
+                <br>
+                <a href="https://compassionatecoding.com/"> https://compassionatecoding.com/</a>
+                <br>
+                <a href="https://www.jacobinmag.com/">https://www.jacobinmag.com/</a>
+                <br>
+                <a href="https://www.khanacademy.org/"> https://www.khanacademy.org/</a>
+            </div>
+
+            <a class="download-btn" href="resume.pdf" download="Resume_Anthony_Symkowick.pdf">Download Resume</a>
+              
         </div>
     </main>
 {{ end }}
