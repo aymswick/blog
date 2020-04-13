@@ -5,8 +5,9 @@ pipeline {
             steps {
                 sh 'figlet "Building Blog Project"'
                 sh 'echo "Checking node version..."'
-                sh 'npm --version'
-                sh 'npm install'
+                sh 'figlet "Generating Hugo site..."'
+                sh 'hugo'
+                sh 'ls'
             }
         }
     }
