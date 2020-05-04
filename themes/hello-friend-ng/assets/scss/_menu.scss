@@ -2,7 +2,8 @@
   margin-right: 18px;
   z-index: 9999;
   border-left: 1px solid $dark-color;
-  
+  width: 100%;
+
   .dark-theme & {
     background: $dark-background-secondary;
     color: $dark-color;
