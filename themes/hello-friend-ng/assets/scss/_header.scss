@@ -1,45 +1,40 @@
 .header {
-  background: #fafafa;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
+  justify-content: flex-start;
   position: relative;
   padding: 20px;
 
   .dark-theme & {
-    background: #252627;
+    background: $dark-background-secondary;
+    color: $dark-color-secondary;
+  }
+
+  .title {
+    margin-left: 18px;
+    color: $dark-color-secondary;
+    margin-right: 18px;
+
+    &:hover {
+      cursor: pointer;
+    }
   }
 
   &__right {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    justify-content: flex-end;
+    align-items: flex-end;
 
     @media #{$media-size-phone} {
       flex-direction: row-reverse;
     }
   }
 
-  &__inner {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0 auto;
-    width: 760px;
-    max-width: 100%;
+  & a {
+    text-decoration: none;
   }
-}
 
-.theme-toggle {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  line-height: 1;
-  cursor: pointer;
-}
-
-.theme-toggler {
-  fill: currentColor;
 }
 
 .unselectable {

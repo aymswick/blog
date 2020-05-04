@@ -1,11 +1,11 @@
 .menu {
-  background: #fafafa;
-  border-right: 1px solid;
   margin-right: 18px;
   z-index: 9999;
-
+  border-left: 1px solid $dark-color;
+  
   .dark-theme & {
-    background: #252627;
+    background: $dark-background-secondary;
+    color: $dark-color;
   }
 
   @media #{$media-size-phone} {
@@ -19,9 +19,9 @@
 
   &__inner {
     display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    max-width: 100%;
+    align-items: flex-end;
+    justify-content: flex-end;
+   
     margin: 0 auto;
     padding: 0 15px;
     font-size: 1rem;

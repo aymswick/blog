@@ -3,8 +3,11 @@ languageCode = "en-us"
 title = "Anthony Symkowick"
 theme = "hello-friend-ng"
 
+
+PygmentsStyle = "dracula"
+
 [params]
-    homeSubtitle = "Full-Stack Developer with 3 years of experience building modern Java & Angular systems." 
+    homeSubtitle = "Hi! I'm a software developer currently available for hire!" 
 
 # Metadata
 description = "Personal website & blog of Anthony Symkowick."
