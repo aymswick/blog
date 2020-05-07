@@ -1,32 +1,24 @@
+PygmentsStyle = "dracula"
 baseURL = "http://symkowick.org/"
 languageCode = "en-us"
-title = "Anthony Symkowick"
 theme = "hello-friend-ng"
-
-
-PygmentsStyle = "dracula"
-
+title = "Anthony Symkowick"
+[[menu.main]]
+identifier = "covid"
+name = "COVID-19 Data"
+url = "https://www.flattenthecurve.com/"
+weight = 1
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts"
+weight = 2
 [params]
-    homeSubtitle = "Hi! I'm a software developer currently available for hire!" 
-
-# Metadata
-description = "Personal website & blog of Anthony Symkowick."
-keywords = "anthony, symkowick, blog, software, javascript, development, programming"
-images = [""]
-
-# Directory name of blog content
 contentTypeName = "posts"
-
-[[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts"
-[[menu.main]]
-    identifier = "covid"
-    name = "COVID-19 Data"
-    url="https://www.flattenthecurve.com/"
-
-# Bug fix the theme main page
+description = "Personal website & blog of Anthony Symkowick."
+homeSubtitle = "Hi! I'm a software developer currently available for hire!"
+images = [""]
+keywords = "anthony, symkowick, blog, software, javascript, development, programming"
 [taxonomies]
-  tag      = "tags"
-  category = "categories"
+category = "categories"
+tag = "tags"
