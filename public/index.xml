@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthony Symkowick</title>
@@ -6,10 +6,19 @@
     <description>Recent content on Anthony Symkowick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2020 10:56:02 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 21:19:27 -0700</lastBuildDate>
     
 	<atom:link href="http://symkowick.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Does Your Terminal Spark Joy?</title>
+      <link>http://symkowick.org/posts/fancy-terminal-tools/</link>
+      <pubDate>Wed, 20 May 2020 21:19:27 -0700</pubDate>
+      
+      <guid>http://symkowick.org/posts/fancy-terminal-tools/</guid>
+      <description>While the list of development tools we have to choose from grows every day, the humble unix terminal beckons us with simplicity and the promise of a distraction-free experience. Once you&amp;rsquo;ve conquered the initial learning curve of navigating a command-line interface, you may be craving some sugary features you gave up ditching IDEs (Integrated Development Environments). Surely there must be some middle ground between a lone blinking cursor and clunky GUIs (Graphical User Interfaces)!</description>
+    </item>
     
     <item>
       <title>Work Is Cancelled, Thanks COVID-19</title>

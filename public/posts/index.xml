@@ -5,8 +5,107 @@
         <description>Recent content in Posts on Anthony Symkowick</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 26 Mar 2020 10:56:02 -0700</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2020 21:19:27 -0700</lastBuildDate>
         <atom:link href="http://symkowick.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Does Your Terminal Spark Joy?</title>
+            <link>http://symkowick.org/posts/fancy-terminal-tools/</link>
+            <pubDate>Wed, 20 May 2020 21:19:27 -0700</pubDate>
+            
+            <guid>http://symkowick.org/posts/fancy-terminal-tools/</guid>
+            <description>While the list of development tools we have to choose from grows every day, the humble unix terminal beckons us with simplicity and the promise of a distraction-free experience. Once you&amp;rsquo;ve conquered the initial learning curve of navigating a command-line interface, you may be craving some sugary features you gave up ditching IDEs (Integrated Development Environments). Surely there must be some middle ground between a lone blinking cursor and clunky GUIs (Graphical User Interfaces)!</description>
+            <content type="html"><![CDATA[<p>While the list of development tools we have to choose from grows every day, the
+humble unix terminal beckons us with simplicity and the promise of a
+distraction-free experience. Once you&rsquo;ve conquered the initial learning curve
+of navigating a command-line interface, you may be craving some sugary features
+you gave up ditching IDEs (Integrated Development Environments). Surely there
+must be some middle ground between a lone blinking cursor and clunky GUIs
+(Graphical User Interfaces)!</p>
+<p>Read ahead for some helpful <em>reimagininings</em> of classic Unix tools.</p>
+<h2 id="1-man--tldr">1. man &amp; tldr</h2>
+<p>First I&rsquo;d like to share the <a href="https://tldr.sh/"><strong>tldr</strong></a> command, which provides a &ldquo;just get me up
+and running&rdquo; familiarity with many unix commands. Inspired by the <strong>man</strong>
+command to read manual pages for a program, tldr is much more concise and shows
+common one-line examples of how a program is used. Yes, you should still read
+the man page, but this can save you some time.</p>
+<p>Compare the results below for Hugo, a static site generator:</p>
+<pre><code>$ man hugo
+</code></pre><p><img src="/images/man-hugo.gif" alt="man"></p>
+<p>lots of info there&hellip;could be a while!</p>
+<pre><code>$ tldr hugo
+</code></pre><p>There we go! Immediately I know how the developer of hugo intends me to use it -
+just type <strong>hugo new site</strong> in any directory I&rsquo;d like to create my website.</p>
+<p><img src="/images/tldr-hugo.gif" alt="tldr"></p>
+<h2 id="2-cat---bat">2. Cat -&gt; Bat</h2>
+<p>The <a href="http://man7.org/linux/man-pages/man1/cat.1.html"><strong>Cat</strong></a> command is pretty much
+unavoidable when working with the terminal - it allows concatenation of files
+(and printing them to standard output) and is the most common way to simply
+spit out the contents of a file!</p>
+<p>If I wanted to see the contents of a JavaScript file, I would simply:</p>
+<pre><code>$ cat example.js
+</code></pre><p>and we would get the contents of the file, simply and without fanfare:</p>
+<p><img src="/images/cat.gif" alt="cat"></p>
+<p>This is great, but the <a href="https://github.com/sharkdp/bat"><strong>bat</strong></a> command improves
+readability of code by adding line numbers and syntax highlighting, all without
+sacrificing POSIX compatibility for piping into other programs.</p>
+<pre><code>$ batcat example.js
+</code></pre><p><img src="/images/bat.gif" alt="bat"></p>
+<p>Awesome! It even opens in a pager (like the <em>less</em> command) for vertical
+scrolling. If you want this functionality by using the same keyword - cat - you
+can set up an alias in your shell. I use <a href="http://www.zsh.org/">zsh</a>, and have
+aliased bat as follows:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#8be9fd;font-style:italic">alias</span> <span style="color:#8be9fd;font-style:italic">cat</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">&#34;batcat -n --color auto --style full&#34;</span>
+</code></pre></div><h2 id="3-du---dust">3. du -&gt; dust</h2>
+<p>The <em>du</em> command shows disk usage and can be used to determine which
+directories are taking up the most space - useful when you&rsquo;ve run out of said
+space!</p>
+<pre><code>$ du
+</code></pre><p><img src="/images/du.gif" alt="du"></p>
+<p>er, ok, looks like we are listing folders and files with numbers prepended to
+their entries. Hmm. You can see that it&rsquo;s gonna take some grokking to make sense of this
+data.</p>
+<p>Let&rsquo;s try the rust replacement, <a href="https://github.com/bootandy/dust"><strong>dust</strong></a> - like du but more intuitive, (straight from the
+tool website)!</p>
+<pre><code>$ dust
+</code></pre><p><img src="/images/dust.gif" alt="dust"></p>
+<p>Wow, right away we are given a hierarchical view of the items within the
+Downloads folder - accompanied by a graph of size by percentage - or how much of
+the total folder size each subfolder is responsible for. Neat! Looks like that
+recent free dump of <a href="https://www.springer.com/us">Springer Textbooks</a> is taking
+up 68%! Do I really need <em>all</em> those books??</p>
+<p>Dust is great for finding size of files, but how about our primary interface
+for dealing with files and directories in the shell?</p>
+<h2 id="3-ls---exa">3. ls -&gt; exa</h2>
+<p>ls is the simple &ldquo;show me what you got&rdquo; program to list all items in a
+directory. It has some helpful options to enable showing hidden/dot files, file
+sizes, permissions, and more. The below example will show off listing all
+(including hidden) files in the <strong>-l</strong> long format to get those other items I
+mentioned.</p>
+<pre><code>$ ls -la --color
+</code></pre><p><img src="/images/ls.gif" alt="ls"></p>
+<p>This looks all right, and <strong>ls</strong> is pretty configurable as far as output formats.
+However, with <a href="https://the.exa.website/"><strong>exa</strong></a> we get some enhanced color and
+sane defaults.</p>
+<pre><code>$ exa -la
+</code></pre><p><img src="/images/exa.gif" alt="exa"></p>
+<p>See how the permissions and owners are also color-coordinated? Nice. The exa
+website also notes that exa runs in parallel, so you might see much faster
+performance working in huge directories.</p>
+<p>Those are just a few handy tools I&rsquo;ve been exposed to recently that I think
+might help you. The year is 2020, and we can live in whatever time we want -
+a splash of 1970 with <a href="https://github.com/Swordfish90/cool-retro-term">Cool Retro
+Term</a> mixed with powerful 2020
+tools! If you enjoyed this post, please let me know, and if you have any
+questions or noticed a mistake, feel free to reach out! If you read through
+this blog post and thought, man, I&rsquo;ve already known about these for years and I
+breezed through this refresher, kudos to you, friend! But I&rsquo;ve got something
+for you too - check out <a href="https://www.nushell.sh/">Nushell</a>, it fits the theme
+of this blog post but expands it to the whole shell itself. Nushell touts
+composable tables as the primary method of interaction as opposed to totally
+unstructured text.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Work Is Cancelled, Thanks COVID-19</title>
@@ -21,17 +120,11 @@ So, I completed my search. After just over 1 month and after many punishingly di
     24 </script>
    
 <a href="https://www.flattenthecurve.com/">https://www.flattenthecurve.com/</a></p>
-
 <p>Hello Compassionate Coders, Free Software Enthusiasts, &amp; the Greater Millenial <del>Workforce</del> Quarantine Squad!</p>
-
 <p>So, I completed my search. After just over 1 month and after many punishingly difficult (failed) coding tests, I found a great job with great pay and a great work environment. I was all set to move when COVID-19 infection rates began climbing in the United States. I reached out to the company proactively, wondering if all this talk of curve-flattening and government lockdown would postpone my start date or worse. It was worse. I got a call the next day from a panicked &amp; genuinely concerned &ldquo;Head of Talent Acquisition&rdquo; informing me with brevity and certainty that my signed employment contract, along with its generous bonus, were now being rescinded - and the Security Engineer position I was being brought on for <em>cancelled</em>.</p>
-
 <p>Wow. A sludge of emotion rose up inside of me as I realized the implication of what was being said to me through the phone. The time and energy spent searching, applying, test-taking, more test-taking, interviewing for behavior, for techincal prowess, for culture-fit. Buying a suit - remembering how to physically get in the suit and pass as self-respecting adult. All for nothing. I asked some clarifying questions that didn&rsquo;t really need to be asked - what? it&rsquo;s cancelled altogether? What about a delay? Am I still going to be hired when this virus blows over? No, the company at this point could commit to nothing more that &ldquo;we&rsquo;re sorry, your job is cancelled and we hope to talk with you in the future.&rdquo;</p>
-
 <p>And who can blame them? I&rsquo;d be lying if I said I had analyzed the company&rsquo;s economic viability or the resiliency of their business (savings, daily operating costs, etc) - and the first people I would cut in times of financial ruin would be those I had the shortest relationships with. While I am incredibly disappointed by this success turned failure, I would like to think that because I was not hired, at least one other person already working there - someone with a family, a routine, a home - got to keep their job. I have a relatively low cost of living, without dependents and with renting my apartment my main expense. I was in the job market on purpose - not because I had been laid off and thrown into the raging depths of unemployment by some misfortune, but by my own volition had jumped ship in search of some more meaningful, ethical work. Even in setback, I have luck and privilege above many of my peers, and will continue to live in solidarity with those struggling most.</p>
-
 <p>And I&rsquo;ll continue my own job search immediately, with fervor, because I know that&rsquo;s what you all would do in my shoes.</p>
-
 <p>Back to the drawing board.</p>
 ]]></content>
         </item>
@@ -44,40 +137,34 @@ So, I completed my search. After just over 1 month and after many punishingly di
             <guid>http://symkowick.org/posts/my-first-post/</guid>
             <description>Hello. Lately I’ve been trying to shape myself into a craftsman who works in a few different mediums at least a few times per week. I find that writing about my desires for technical growth keeps my honest about progression. Purposeful declaration of intent is the first step to reaching beyond yourself, right? I’ll explain how I work, how I wish I worked, and share the single nugget of wisdom I mined this week.</description>
             <content type="html"><![CDATA[<p>Hello. Lately I’ve been trying to shape myself into a craftsman who works in a few different mediums at least a few times per week. I find that writing about my desires for technical growth keeps my honest about progression. Purposeful declaration of intent is the first step to reaching beyond yourself, right? I’ll explain how I work, how I <em>wish</em> I worked, and share the single nugget of wisdom I mined this week.</p>
-
-<p>Android Development:
-- Macbook Pro 2012 15” i7 16GB RAM + SSD
-- Dual monitors (1 1440p wide &amp; 1 1080 vertical) on free swinging arm mounts
-- Android Studio (Stable Channel)
-- Google Pixel 3XL &amp; Samsung Galaxy S8+
-- ikea auto-standing desk</p>
-
+<p>Android Development:</p>
+<ul>
+<li>Macbook Pro 2012 15” i7 16GB RAM + SSD</li>
+<li>Dual monitors (1 1440p wide &amp; 1 1080 vertical) on free swinging arm mounts</li>
+<li>Android Studio (Stable Channel)</li>
+<li>Google Pixel 3XL &amp; Samsung Galaxy S8+</li>
+<li>ikea auto-standing desk</li>
+</ul>
 <p>Since full-fleged application development demands frequent context-switching and multiple concurrent views for code, configuration, layout, build, debug, etc, I’m constrained to a “real computer”. I use MacOS, despite the fact that many of its features are vestiges of a dying metaphor for computational productivity - I’ve had this machine for 7 years and it is sort of like an old truck in terms of reliability and power; it’ll be there to help you move even if it lacks the torque of newer models. I try to only use this thing in “clamshell” mode, docked to my very adhoc workstation monitors. I’ve been thinking of converting to the linux-on-a-mac religion and installing debian.</p>
-
-<p>Systems Engineering / DevOps Exploration:
-- Raspberry Pi 3B+ NAS w/ old laptop HDDs &amp; 3D printed rack
-- Raspberry Pi Zero
-- iPad Pro w/ smart keyboard &amp; Termius</p>
-
+<p>Systems Engineering / DevOps Exploration:</p>
+<ul>
+<li>Raspberry Pi 3B+ NAS w/ old laptop HDDs &amp; 3D printed rack</li>
+<li>Raspberry Pi Zero</li>
+<li>iPad Pro w/ smart keyboard &amp; Termius</li>
+</ul>
 <p>Like any lazy learner, I owned a raspberry pi for far too long before I did anything even remotely productive with it. Eventually I decided that since I aspire to be a better caretaker of code, I could start by learning how to take care of the machines through which we interface. While I’ve installed PiHole on one to black-hole advertisements in my apartment, I use the other as a playground for lite web design + development, python for little API widgets (YouTube, Twitter), and a NextCloud server connected to my old laptop harddrives so I can replace cloud backup services. Overall, I’ve learned so much more than the ~$40 I spent on these things - so cool because I’m not afraid to break them.</p>
-
 <p>Forgive me Stallman, for I have sinned in the form of an iPad - I had been yearning for a lighter machine that could be powerful enough to do code and writing tasks but simple enough to let me lead the experience and not be drawn in by the dreaded “tweaks” syndrome which affects me on big machines. I hate windows. It is bad, it is a bad operating system by performance and ergonomics standpoints, looks like robots designed it, and now habitually pesters you about Bing in the same place where you receive critical email and chat notifications. At this point I’d expect they’re at least trying to find some way to put ads in the firmware. I couldn’t find a Linux tablet or cheap laptop that seemed both reliable and carefully thought out from a user experience perspective, and the recent spinoff of iOS into iPadOS piqued my interest.</p>
-
 <p>So, I bought it. I took it home, had a lot of fun with it right away as the screen is <em>saucy</em> and GarageBand is pre-installed. Then I started to get to work, jailbreaking it and testing the viability of Cydia apps on the iPad in 2019. Spoiler: It’s not. It’s not even called Cydia anymore. I miss you, Saurik. You are the Obi Wan Kenobi to Geohot’s Anakin Skywalker. I remembered that someone on reddit touted a mere <em>App Store</em> app as possibly the best terminal experience on iOS, and went to Google it - no, DuckDuckGo it - duck it? Well, it turns out, Termius is amazing and does exactly what I need it to do. Save SSH profiles and give me a terminal with a useful touch interface. Now I can find a song on shuffle at work, remote in to my persistent backup, and youtube-dl it into my personal library. Streaming is great for discovery, but I don’t think I should make it my primary listening experience. Anyway, yeah, it’s great. Now if only we could get Android Studio on this thing&hellip;</p>
-
-<p>Linux (Low Level Learning):
-- $5 Digital Ocean Droplet (Debian) hosting a webserver
-- Friend’s secondhand server equipment (Debian)
-- Purism Librem 5 (an upcoming mobile phone based on Debian and endorsed by the Free Software Foundation)</p>
-
+<p>Linux (Low Level Learning):</p>
+<ul>
+<li>$5 Digital Ocean Droplet (Debian) hosting a webserver</li>
+<li>Friend’s secondhand server equipment (Debian)</li>
+<li>Purism Librem 5 (an upcoming mobile phone based on Debian and endorsed by the Free Software Foundation)</li>
+</ul>
 <p>I use the digitalocean box to host websites, mostly. Angular is cool, I built a small website and then replaced it with a Ghost blog - but will soon reattach the Angular homepage. I got the chance to poke at some retired server equipment with a friend which quickly led to us hosting a Minecraft server - it always leads to this - on which I spent too much time on and then not enough time on - this also always happens.</p>
-
 <p>I am a very late student of the Free Software movement - I only stumbled in because I believe in sharing. I now understand how the free software ideology was co-opted by corporations into the term “open source” and purged of all radical socialism. I find his thoughts on power (political not electrical) quite compelling. I summarize my readings of Stallman technopolitics as thus: As someone with some power, I should help others get their fair share of power, because I stand on the shoulders of giants. His views on software development are commendable. Ironically, he seems to believe in freedom in quite a strict sense and is often combative in the interview clips I could find. By tapping into the free software webiverse, I came across the social purpose company Purism which has been working to produce a pure Linux phone with hardware killswitches and voted with my dollars against the surveillance capitalism duopoly. I really hope this thing ships.</p>
-
 <p>That’s it. That’s what I do. I wish I was a 10x developer and was pro at every task and tool listed above - I wish I could stop having to hit the arrow keys vim - like forever.</p>
-
 <p>Here’s my nugget of the week:</p>
-
 <p>If communication structure determines system design, there is a third phase in which those systems influence the users upon whom its design is impressed. So, naturally, obviously, if we build a system by authoritatively controlling the flow of information among involved parties rather than freely allowing each member to read, understand, and extend the system as a whole, we will encourage our users to think it is okay to trust authoritarian figures.</p>
 ]]></content>
         </item>

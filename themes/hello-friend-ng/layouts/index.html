@@ -13,16 +13,17 @@
  };
 
  let hireGreatEngineers = ((candidate) => {
-    startWith("Anthony")
+    startWith(candidate)
         .explore(blogPosts)
         .click("Download Resume");
  });
 ` "javascript" "linenos=inline"}}
 
-            <div class="card" onclick="window.location.href='/posts/work-is-cancelled'">
+            <div class="card"
+              onclick="window.location.href='/posts/fancy-terminal-tools'">
                 <h3 class="byline">Latest Post</h3>
-                <h2 class="headline">Work Is Cancelled, Thanks COVID-19</h2>
-                <p>Please stay safe and stay inside!</p>
+                <h2 class="headline">Does Your Terminal Spark Joy?</h2>
+                <p>Modern upgrades to classic unix tools.</p>
             </div>
 
             {{- with .Site.Params.social }}

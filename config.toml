@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Anthony Symkowick"
 theme = "hello-friend-ng"
 
-
 PygmentsStyle = "dracula"
 
 [params]
