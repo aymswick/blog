@@ -15,8 +15,7 @@
             
             <guid>http://symkowick.org/posts/fancy-terminal-tools/</guid>
             <description>While the list of development tools we have to choose from grows every day, the humble unix terminal beckons us with simplicity and the promise of a distraction-free experience. Once you&amp;rsquo;ve conquered the initial learning curve of navigating a command-line interface, you may be craving some sugary features you gave up ditching IDEs (Integrated Development Environments). Surely there must be some middle ground between a lone blinking cursor and clunky GUIs (Graphical User Interfaces)!</description>
-            <content type="html"><![CDATA[<p><img src="/images/terminal.png" alt="Generic Image of Terminal"></p>
-<p>While the list of development tools we have to choose from grows every day, the
+            <content type="html"><![CDATA[<p>While the list of development tools we have to choose from grows every day, the
 humble unix terminal beckons us with simplicity and the promise of a
 distraction-free experience. Once you&rsquo;ve conquered the initial learning curve
 of navigating a command-line interface, you may be craving some sugary features

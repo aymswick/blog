@@ -3,8 +3,6 @@ title: "Does Your Terminal Spark Joy?"
 date: 2020-05-20T21:19:27-07:00
 draft: false
 ---
-![Generic Image of Terminal](/images/terminal.png)
-
 While the list of development tools we have to choose from grows every day, the
 humble unix terminal beckons us with simplicity and the promise of a
 distraction-free experience. Once you've conquered the initial learning curve
