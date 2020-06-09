@@ -42,7 +42,7 @@ within one of the largest (and oldest) computing
 organizations in the world - The IEEE (Institute of Electrical and Electronics Engineers) Computer
 Society! The preamble begins below:
 
-> Computers have a central and growing role in commerce, industry, government, medicine, education, entertainment and society at large. Software engineers are those who contribute by direct participation or by teaching, to the analysis, specification, design, development, certification, maintenance and testing of software systems. Because of their roles in developing software systems, software engineers have significant opportunities to do good or cause harm, to enable others to do good or cause harm, or to influence others to do good or cause harm. To ensure, as much as possible, that their efforts will be used for good, software engineers must commit themselves to making software engineering a beneficial and respected profession. In accordance with that commitment, software engineers shall adhere to the following Code of Ethics and Professional Practice.
+> Computers have a central and growing role in commerce, industry, government, medicine, education, entertainment and society at large. Software engineers are those who contribute by direct participation or by teaching, to the analysis, specification, design, development, certification, maintenance and testing of software systems. Because of their roles in developing software systems, software engineers have significant opportunities to do good or cause harm, to enable others to do good or cause harm, or to influence others to do good or cause harm. To ensure, as much as possible, that their efforts will be used for good, software engineers must commit themselves to making software engineering a beneficial and respected profession. In accordance with that commitment, software engineers shall adhere to the following Code of Ethics and Professional Practice. [IEEE CS](https://www.computer.org/education/code-of-ethics)
 
 I'd like to highlight the inclusion of the line *"To ensure...that their efforts will be
 used for good, software engineers must commit themselves to making software engineering a
@@ -58,16 +58,36 @@ the entirety of my life, massive corporate giants have pushed knowledge workers 
 precipice of treason in the name of infinite growth, feeding their egos with mission
 statements to "change the world", disguising the chance to architect platforms of oppression as those of *expression*, and numerous other forms of tactful misdirection.
 
-TODO add line about how
+What follows this paragraph is a list of 8 principles that IEEE CS suggests embody the spirit of ethical software development. Critically, the *first* responsbility we have is to the public interest!
+
+![Eight Principles - IEEE CS Code of Ethics](/images/ethics-code-iee-cs.png)
+
 1. PUBLIC – Software engineers shall act consistently with the public interest.
-is the first of 8 items on the code of ethics.
 
-TODO conclude
+2. CLIENT AND EMPLOYER – Software engineers shall act in a manner that is in the best interests of their client and employer consistent with the public interest.
 
+3. PRODUCT – Software engineers shall ensure that their products and related modifications meet the highest professional standards possible.
 
-Sources:
+4. JUDGMENT – Software engineers shall maintain integrity and independence in their professional judgment.
+
+5. MANAGEMENT – Software engineering managers and leaders shall subscribe to and promote an ethical approach to the management of software development and maintenance.
+
+6. PROFESSION – Software engineers shall advance the integrity and reputation of the profession consistent with the public interest.
+
+7. COLLEAGUES – Software engineers shall be fair to and supportive of their colleagues.
+
+8. SELF – Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.
+
+Public interest is priority number one, above *employers* and *product* and even *self*.
+If you are a user of the proprietary platforms mentioned above, ask yourself whether
+their leadership (Mark Zuckerberg, Jeff Bezos, Peter Thiel, etc) has *ever* acted in the
+public interest. If you can find an example, consider that good deed against the backdrop
+of violations - in some cases the total subversion of democracy - and drop me a line at 
+
+### Sources:
 
 Code of Ethics: IEEE Computer Society. (n.d.). Retrieved from https://www.computer.org/education/code-of-ethics
+Copyright © 1999 by the Institute for Electrical and Electronics Engineers, Inc. and the Association for Computing Machinery, Inc.
 
 Day, M. (2020, June 5). Amazon's heavily automated HR leaves workers in sick-leave limbo amid coronavirus crisis. Retrieved from https://www.seattletimes.com/business/amazons-heavily-automated-hr-leaves-workers-in-sick-leave-limbo-amid-coronavirus-crisis/
 
