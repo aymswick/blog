@@ -7,6 +7,7 @@ images:
 tags:
   - untagged
 ---
+![Spiderweb](/images/spiderweb.jpg)
 ## The Web is Being Polluted by Capital
 I believe that the internet should be a freely available utiltiy for all people. In its
 purest form, the internet is the technology that enables the web - a portal through which
