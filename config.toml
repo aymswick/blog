@@ -1,5 +1,5 @@
 PygmentsStyle = "dracula"
-baseURL = "http://symkowick.org/"
+baseURL = "https://symkowick.org/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
