@@ -5,7 +5,12 @@ draft: true
 toc: false
 images:
 tags:
-  - untagged
+  - software
+  - industry
+  - ethics
+  - open web
+  - small web
+  - web centralization
 ---
 ![Spiderweb](/images/spiderweb.jpg)
 ## The Web is Being Polluted by Capital
