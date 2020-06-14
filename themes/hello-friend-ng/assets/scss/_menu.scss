@@ -1,12 +1,12 @@
 .menu {
   margin-right: 18px;
   z-index: 9999;
-  border-left: 1px solid $dark-color;
+  border-left: 1px solid $text-color;
   width: 100%;
 
   .dark-theme & {
-    background: $dark-background-secondary;
-    color: $dark-color;
+    background: $background-secondary;
+    color: $text-color;
   }
 
   @media #{$media-size-phone} {

@@ -11,7 +11,7 @@
 
   &:not(:last-of-type) {
     .dark-theme & {
-      border-color: $dark-border-color;
+      border-color: $border-color;
     }
   }
 

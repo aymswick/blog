@@ -9,14 +9,14 @@
   width: 100%;
   padding: 20px;
   
-  .dark-theme & {
-    background: $dark-background-secondary;
-    color: $dark-color-secondary;
-  }
+  font-family: 'Inter';
+  background-color: $background-secondary;
+  color: $text-color-secondary;
+
 
   .title {
     margin-left: 18px;
-    color: $dark-color-secondary;
+    color: $text-color-secondary;
     margin-right: 18px;
 
     &:hover {
@@ -38,7 +38,6 @@
   & a {
     text-decoration: none;
   }
-
 }
 
 .unselectable {

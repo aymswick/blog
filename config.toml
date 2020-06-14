@@ -1,7 +1,7 @@
-PygmentsStyle = "dracula"
 baseURL = "https://symkowick.org/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
+pygmentsUseClasses = true
 
 title = "Anthony Symkowick"
 [[menu.main]]

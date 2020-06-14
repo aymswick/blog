@@ -115,8 +115,8 @@
       z-index: 1;
 
       .dark-theme & {
-        background: $dark-background;
-        color: $dark-color-secondary;
+        background: $background;
+        color: $text-color-secondary;
       }
     }
 
@@ -156,7 +156,7 @@
   appearance: none;
 
   .dark-theme & {
-    background: $dark-background-secondary;
+    background: $background-secondary;
   }
 
   + .button {
