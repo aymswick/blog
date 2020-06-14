@@ -3,6 +3,9 @@ html {
   line-height: 1.6;
   letter-spacing: .06em;
   scroll-behavior: smooth;
+  ::selection {
+    background: rgba(255,255,0,.4);
+  }
 }
 
 *,
@@ -160,19 +163,18 @@ pre {
   
   text-align: left;
   background: $card-color;
-  box-shadow: 15px 15px $shadow-color;
 
   @media #{$media-size-phone} {
     white-space: pre-wrap;
     word-wrap: break-word;
   }
-  transition: transform .5s cubic-bezier(.17,.67,.98,.96);
-    &:hover {
-      text-color: $text-color-secondary;
-      border-color: $border-color;
-      cursor: pointer;
-      transform: scale3d(1.1, 1.1, 1.1);
-    }
+}
+
+// Fix homepage card double border
+.cardpre {
+  pre {
+    border: none !important;
+  }
 }
 
 blockquote {
@@ -318,7 +320,7 @@ hr {
 
   transition: transform .5s cubic-bezier(.17,.67,.98,.96);
   &:hover {
-    background-color: $background;
+    background-color: $card-color;
     border-color: $border-color;
     cursor: pointer;
     transform: scale3d(1.1, 1.1, 1.1);

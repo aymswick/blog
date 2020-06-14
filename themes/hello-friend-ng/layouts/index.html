@@ -4,9 +4,10 @@
           <br>
           <br>
             {{- with .Site.Params.homeSubtitle }}
-                <p>{{.}}</p>
+                <h3>{{.}}</h3>
             {{- end }}
 
+        <div class="card cardpre">
             {{ highlight ` const candidate = {
     name: "Anthony Symkowick",
     type: "Full Stack Engineer",
@@ -20,7 +21,7 @@
         .click("Download Resume");
  });
 ` "javascript" "linenos=inline"}}
-
+        </div>
             <div class="card"
               onclick="window.location.href='/posts/fancy-terminal-tools'">
                 <h3 class="byline">Latest Post</h3>
