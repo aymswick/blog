@@ -17,13 +17,12 @@ html {
 pre {
   font: monospace;
   @media #{$media-size-phone} {
-    font-size: .45rem !important;
+    font-size: .8rem !important;
   }
 }
 
 body {
   margin: 0;
-  margin-top: 50px;
   padding: 0;
   font-family: 'Literata', Helvetica, Arial, sans-serif;
   font-display: auto;
@@ -40,6 +39,7 @@ body {
   flex-direction: column;
 
   @media #{$media-size-phone} {
+    margin-top: 50px;
     font-size: 1rem;
     
   }

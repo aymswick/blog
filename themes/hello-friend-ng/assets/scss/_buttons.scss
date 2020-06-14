@@ -1,7 +1,6 @@
 .button-container {
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
 }
 
 button,
@@ -22,10 +21,8 @@ a.button {
   cursor: pointer;
   outline: none;
 
-  .dark-theme & {
-    background: $background-secondary;
-    color: inherit;
-  }
+  background: $background-tertiary;
+  color: $text-color-secondary;
 
   /* variants */
 
@@ -34,10 +31,8 @@ a.button {
     box-shadow: none;
     padding: 8px 18px;
 
-    .dark-theme & {
-      border-color: $background-secondary;
-      color: inherit;
-    }
+    border-color: $border-color;
+    color: $text-color;
 
     :hover {
       transform: none;

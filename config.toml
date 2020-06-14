@@ -25,7 +25,7 @@ weight = 3
 [params]
 contentTypeName = "posts"
 description = "Personal website & blog of Anthony Symkowick."
-homeSubtitle = "Hi! I'm a software developer currently available for hire!"
+homeSubtitle = "software developer - currently available for hire"
 images = [""]
 keywords = "anthony, symkowick, blog, software, javascript, development, programming"
 
