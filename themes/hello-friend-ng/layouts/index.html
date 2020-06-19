@@ -4,22 +4,9 @@
           <br>
           <br>
             {{- with .Site.Params.homeSubtitle }}
-                <p>{{.}}</p>
+                <h1>{{.}}</h1>
+                <h2>software dev</h2>
             {{- end }}
-
-            {{ highlight ` const candidate = {
-    name: "Anthony Symkowick",
-    type: "Full Stack Engineer",
-    skills: ["Java", "TypeScript", "Unix"],
-    years_of_experience: "3"
- };
-
- let hireGreatEngineers = ((candidate) => {
-    startWith(candidate)
-        .explore(blogPosts)
-        .click("Download Resume");
- });
-` "javascript" "linenos=inline"}}
 
             <div class="card"
               onclick="window.location.href='/posts/fancy-terminal-tools'">

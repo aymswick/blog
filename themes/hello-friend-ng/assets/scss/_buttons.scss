@@ -1,7 +1,6 @@
 .button-container {
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
 }
 
 button,
@@ -16,16 +15,14 @@ a.button {
   text-decoration: none;
   text-align: center;
   font-weight: 500;
-  border-radius: 8px;
   border: 1px solid transparent;
   appearance: none;
   cursor: pointer;
   outline: none;
 
-  .dark-theme & {
-    background: $dark-background-secondary;
-    color: inherit;
-  }
+  font-family: 'Inter';
+  background: $background-tertiary;
+  color: $text-color-secondary;
 
   /* variants */
 
@@ -34,10 +31,8 @@ a.button {
     box-shadow: none;
     padding: 8px 18px;
 
-    .dark-theme & {
-      border-color: $dark-background-secondary;
-      color: inherit;
-    }
+    border-color: $border-color;
+    color: $text-color;
 
     :hover {
       transform: none;
@@ -82,14 +77,13 @@ a.button {
     text-align: center;
     font-size: 13px;
     font-weight: 500;
-    border-radius: 8px;
     border: 1px solid transparent;
     appearance: none;
     cursor: pointer;
     outline: none;
 
     .dark-theme & {
-      background: $dark-background-secondary;
+      background: $background-secondary;
       color: inherit;
     }
   }

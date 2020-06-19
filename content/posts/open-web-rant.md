@@ -5,11 +5,16 @@ draft: true
 toc: false
 images:
 tags:
-  - untagged
+  - software
+  - industry
+  - ethics
+  - open web
+  - small web
+  - web centralization
 ---
 ![Spiderweb](/images/spiderweb.jpg)
 ## The Web is Being Polluted by Capital
-I believe that the internet should be a freely available utiltiy for all people. In its
+I believe that the internet should be a freely available utility for all people. In its
 purest form, the internet is the technology that enables the web - a portal through which
 every global citizen can access the totality of human knowledge *for free*. Insantaneous
 free access to knowledge is the clearest facilitator of education we have witnessed since

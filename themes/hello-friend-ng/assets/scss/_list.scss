@@ -4,15 +4,10 @@
   text-align: left;
   padding: 20px;
   margin: 20px auto;
+  font-family: 'Inter';
 
   @media #{$media-size-tablet} {
     max-width: 660px;
-  }
-
-  &:not(:last-of-type) {
-    .dark-theme & {
-      border-color: $dark-border-color;
-    }
   }
 
   &-group {
@@ -36,6 +31,9 @@
     &-title {
       font-size: 1rem;
       margin: 5px 0 5px 0;
+      padding: 1rem;
+      display: flex;
+      box-shadow: 5px 5px rgba(0,0,0,.5);
     }
 
     &-year {
