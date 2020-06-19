@@ -1,24 +1,27 @@
 .header {
   display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
+  justify-content: center;
   
+  @media #{$media-size-phone} {
+      justify-content: space-between;
+  }
+ 
   position: fixed;
   z-index: 10;
   top: 0px;
   width: 100%;
   padding: 20px;
   
-  .dark-theme & {
-    background: $dark-background-secondary;
-    color: $dark-color-secondary;
-  }
+  font-family: 'Inter';
+  background-color: $background-secondary;
+  color: $text-color-secondary;
 
   .title {
-    margin-left: 18px;
-    color: $dark-color-secondary;
-    margin-right: 18px;
+    display: flex;
+    margin-right: 25px;
 
+    color: $text-color-secondary;
+    
     &:hover {
       cursor: pointer;
     }
@@ -26,7 +29,6 @@
 
   &__right {
     display: flex;
-    flex-direction: row;
     justify-content: flex-end;
     align-items: flex-end;
 
@@ -37,8 +39,8 @@
 
   & a {
     text-decoration: none;
+    font-size: 1.25rem;
   }
-
 }
 
 .unselectable {

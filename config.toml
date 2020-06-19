@@ -1,7 +1,7 @@
-PygmentsStyle = "dracula"
 baseURL = "https://symkowick.org/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
+pygmentsUseClasses = true
 
 title = "Anthony Symkowick"
 [[menu.main]]
@@ -25,9 +25,9 @@ weight = 3
 [params]
 contentTypeName = "posts"
 description = "Personal website & blog of Anthony Symkowick."
-homeSubtitle = "Hi! I'm a software developer currently available for hire!"
+homeSubtitle = "anthony symkowick"
 images = [""]
-keywords = "anthony, symkowick, blog, software, javascript, development, programming"
+keywords = "anthony symkowick, anthony, symkowick, blog, software, javascript, development, programming"
 
 [taxonomies]
 category = "categories"

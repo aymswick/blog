@@ -1,15 +1,22 @@
 @charset "UTF-8";
 
-/* dark theme colors */
-$dark-background: #35383b;
-$dark-background-secondary: #7693ac;
-$dark-background-tertiary: #3856c4;
-$darker-background: #292c2e;
-$dark-color: #d0d2d1;
-$dark-color-secondary: #fcf7e2;
-$dark-border-color: #484c52;
-$dark-shadow-color: #27292c;
+/* theme colors */
+$background: white;
+//$background-secondary: #90323D; // red
+$background-secondary: black;
+//$background-tertiary: #1b8866; // green
+$background-tertiary: rgba(0, 0, 255, .6);
 
+$text-color: #14110f;
+//$text-color-secondary: #fcf7e2;
+$text-color-secondary: white;
+
+$terminal-text-color: rgba(0,255,0,.9);
+
+//$card-color: #eee8d5;
+$card-color: black;
+$border-color: #14110f;
+$shadow-color: rgba(0,0,0,0.2);
 
 $media-size-phone: "(max-width: 684px)";
 $media-size-tablet: "(max-width: 900px)";
