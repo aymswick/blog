@@ -25,9 +25,9 @@ weight = 3
 [params]
 contentTypeName = "posts"
 description = "Personal website & blog of Anthony Symkowick."
-homeSubtitle = "software developer - currently available for hire"
+homeSubtitle = "anthony symkowick"
 images = [""]
-keywords = "anthony, symkowick, blog, software, javascript, development, programming"
+keywords = "anthony symkowick, anthony, symkowick, blog, software, javascript, development, programming"
 
 [taxonomies]
 category = "categories"

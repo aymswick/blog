@@ -4,24 +4,10 @@
           <br>
           <br>
             {{- with .Site.Params.homeSubtitle }}
-                <h3>{{.}}</h3>
+                <h1>{{.}}</h1>
+                <h2>software dev</h2>
             {{- end }}
 
-        <div class="card cardpre">
-            {{ highlight ` const candidate = {
-    name: "Anthony Symkowick",
-    type: "Full Stack Engineer",
-    skills: ["Java", "TypeScript", "Unix"],
-    years_of_experience: "3"
- };
-
- let hireGreatEngineers = ((candidate) => {
-    startWith(candidate)
-        .explore(blogPosts)
-        .click("Download Resume");
- });
-` "javascript" "linenos=inline"}}
-        </div>
             <div class="card"
               onclick="window.location.href='/posts/fancy-terminal-tools'">
                 <h3 class="byline">Latest Post</h3>

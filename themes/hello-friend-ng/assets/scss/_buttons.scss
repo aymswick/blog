@@ -15,12 +15,12 @@ a.button {
   text-decoration: none;
   text-align: center;
   font-weight: 500;
-  border-radius: 8px;
   border: 1px solid transparent;
   appearance: none;
   cursor: pointer;
   outline: none;
 
+  font-family: 'Inter';
   background: $background-tertiary;
   color: $text-color-secondary;
 
@@ -77,7 +77,6 @@ a.button {
     text-align: center;
     font-size: 13px;
     font-weight: 500;
-    border-radius: 8px;
     border: 1px solid transparent;
     appearance: none;
     cursor: pointer;

@@ -2,13 +2,19 @@
 
 /* theme colors */
 $background: white;
-$background-secondary: #90323D;
-$background-tertiary: #1b8866;
+//$background-secondary: #90323D; // red
+$background-secondary: black;
+//$background-tertiary: #1b8866; // green
+$background-tertiary: rgba(0, 0, 255, .6);
 
 $text-color: #14110f;
-$text-color-secondary: #fcf7e2;
+//$text-color-secondary: #fcf7e2;
+$text-color-secondary: white;
 
-$card-color: #eee8d5;
+$terminal-text-color: rgba(0,255,0,.9);
+
+//$card-color: #eee8d5;
+$card-color: black;
 $border-color: #14110f;
 $shadow-color: rgba(0,0,0,0.2);
 
