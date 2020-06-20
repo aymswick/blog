@@ -17,9 +17,9 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-identifier = "covid"
-name = "COVID-19 Data"
-url = "https://www.flattenthecurve.com/"
+identifier = "social"
+name = "Social"
+url = "/social"
 weight = 3
 
 [params]
