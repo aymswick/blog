@@ -27,7 +27,8 @@ contentTypeName = "posts"
 description = "Personal website & blog of Anthony Symkowick."
 homeSubtitle = "anthony symkowick"
 images = [""]
-keywords = "anthony symkowick, anthony, symkowick, blog, software, javascript, development, programming"
+keywords = ''' anthony symkowick, anthony, symkowick, blog, software, javascript,
+development, programming, small web, ethical development '''
 
 [taxonomies]
 category = "categories"

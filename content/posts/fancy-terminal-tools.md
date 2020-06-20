@@ -1,6 +1,6 @@
 ---
 title: "Does Your Terminal Spark Joy?"
-summary: "Helpful reimaginings of classic Unix tools."
+tldr: "Helpful reimaginings of classic Unix tools."
 date: 2020-05-20T21:19:27-07:00
 draft: false
 ---
