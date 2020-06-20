@@ -10,10 +10,10 @@
 
             {{ range first 1 .Site.RegularPages }}
             <div class="card"
-              onclick="window.location.href='/posts/fancy-terminal-tools'">
+                 onclick="window.location.href='{{ .RelPermalink }}'">
                 <h3 class="byline">Latest Post</h3>
                 <h2 class="headline">{{ .Title }}</h2>
-                <p>{{ .Summary }}</p>
+                <p>{{ .Params.tldr }}</p>
             </div>
             {{ end }}
 
