@@ -8,12 +8,14 @@
                 <h2>software dev</h2>
             {{- end }}
 
+            {{ range first 1 .Site.RegularPages }}
             <div class="card"
               onclick="window.location.href='/posts/fancy-terminal-tools'">
                 <h3 class="byline">Latest Post</h3>
-                <h2 class="headline">Does Your Terminal Spark Joy?</h2>
-                <p>Modern upgrades to classic unix tools.</p>
+                <h2 class="headline">{{ .Title }}</h2>
+                <p>{{ .Summary }}</p>
             </div>
+            {{ end }}
 
             {{- with .Site.Params.social }}
                 <div>
