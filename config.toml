@@ -17,9 +17,9 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-identifier = "covid"
-name = "COVID-19 Data"
-url = "https://www.flattenthecurve.com/"
+identifier = "gospel"
+name = "Gospel"
+url = "/gospel"
 weight = 3
 
 [params]
@@ -33,3 +33,7 @@ development, programming, small web, ethical development '''
 [taxonomies]
 category = "categories"
 tag = "tags"
+
+# Enable raw <HTML> tags in markdown
+[markup.goldmark.renderer]
+unsafe=true

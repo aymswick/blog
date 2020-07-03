@@ -1,0 +1,48 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div class="">
+          <br>
+          <br>
+            {{- with .Site.Params.homeSubtitle }}
+                <h1>{{.}}</h1>
+                <h2>software dev</h2>
+            {{- end }}
+
+            {{ range first 1 .Site.RegularPages }}
+            <div class="card"
+                 onclick="window.location.href='{{ .RelPermalink }}'">
+                <h3 class="byline">Latest Post</h3>
+                <h2 class="headline">{{ .Title }}</h2>
+                <p>{{ .Params.tldr }}</p>
+            </div>
+            {{ end }}
+
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+
+            <div class="card">
+                <h2 class="headline">Please Support These Sites:</h2>
+              <p>
+                <a href="https://blacklivesmatter.com/">https://blacklivesmatter.com/</a>
+                <br>
+                <a href="https://www.gnome.org/"> https://www.gnome.org/</a>
+                <br>
+                <a href="https://compassionatecoding.com/"> https://compassionatecoding.com/</a>
+                <br>
+                <a href="https://www.jacobinmag.com/">https://www.jacobinmag.com/</a>
+                <br>
+                <a href="https://www.khanacademy.org/"> https://www.khanacademy.org/</a>
+              </p>
+            </div>
+
+            <a class="download-btn" href="resume.pdf" download="Resume_Anthony_Symkowick.pdf">Download Resume</a>
+              
+        </div>
+        <div class="footer">
+            Thanks for visiting my blog. You can subscribe via RSS below.
+        </div>
+    </main>
+{{ end }}
