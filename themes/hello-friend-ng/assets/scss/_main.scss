@@ -296,9 +296,14 @@ hr {
 .card {
   margin-top: 2em;
   margin-bottom: 3em;
-  border: 2px solid $border-color;
+  border: 1px solid $border-color;
   color: $text-color;
   box-shadow: 15px 15px $shadow-color;
+
+  @media #{$media-size-phone} {
+    box-shadow: 8px 8px $shadow-color;
+    margin-right: 8px;
+  }
 
   padding: 25px;
   display: flex;

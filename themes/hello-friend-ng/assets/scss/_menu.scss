@@ -1,9 +1,9 @@
 .menu {
   z-index: 9999;
-  border-left: 1px solid $text-color;
+  border-left: 1px solid $text-color-secondary;
   width: 100%;
 
-  background: $background-secondary;
+  background: $background-tertiary;
   color: $text-color-secondary;
 
   @media #{$media-size-phone} {
@@ -27,6 +27,7 @@
 
     li {
       margin: 0 12px;
+      text-shadow: 2px 2px 2px $shadow-color;
     }
 
     @media #{$media-size-phone} {
