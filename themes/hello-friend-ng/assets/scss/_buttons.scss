@@ -64,6 +64,15 @@ a.button {
   }
 }
 
+// Next / Prev buttons at bottom of single post
+.button a {
+  color: $text-color-secondary;
+
+  &:hover {
+    color: $text-color-secondary !important;
+  }
+}
+
 .code-toolbar {
   margin-bottom: 20px;
 
@@ -82,10 +91,5 @@ a.button {
     appearance: none;
     cursor: pointer;
     outline: none;
-
-    .dark-theme & {
-      background: $background-secondary;
-      color: inherit;
-    }
   }
 }
