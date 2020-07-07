@@ -1,5 +1,6 @@
 ---
 title: "Work Is Cancelled, Thanks COVID-19"
+tldr: "Job offer signed, position cancelled."
 date: 2020-03-26T10:56:02-07:00
 draft: false
 ---

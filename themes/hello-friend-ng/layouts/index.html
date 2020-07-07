@@ -10,8 +10,8 @@
 
             <!-- Loop through all posts - excluding top-level-pages - and show the latest
             -->
-            {{ $posts := where .Site.RegularPages.Reverse "Type" "posts"}}
-              {{ range last 1 $posts }}
+            {{ $posts := where .Site.RegularPages "Type" "posts"}}
+            {{ range first 3 $posts }}
             <div class="card"
                  onclick="window.location.href='{{ .RelPermalink }}'">
               <h3 class="byline">{{ .Date.Format "January 2, 2006" }}</h3>
@@ -20,6 +20,8 @@
             </div>
             {{ end }}
 
+            <h4><a href="/posts">More posts...</a></h4>
+ 
             {{- with .Site.Params.social }}
                 <div>
                     {{ partial "social-icons.html" . }}
