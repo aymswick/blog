@@ -8,10 +8,13 @@
                 <h2>software dev</h2>
             {{- end }}
 
-            {{ range first 1 .Site.RegularPages }}
+            <!-- Loop through all posts - excluding top-level-pages - and show the latest
+            -->
+            {{ $posts := where .Site.RegularPages.Reverse "Type" "posts"}}
+              {{ range last 1 $posts }}
             <div class="card"
                  onclick="window.location.href='{{ .RelPermalink }}'">
-                <h3 class="byline">Latest Post</h3>
+              <h3 class="byline">{{ .Date.Format "January 2, 2006" }}</h3>
                 <h2 class="headline">{{ .Title }}</h2>
                 <p>{{ .Params.tldr }}</p>
             </div>

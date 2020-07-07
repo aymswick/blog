@@ -19,7 +19,7 @@ weight = 2
 [[menu.main]]
 identifier = "gospel"
 name = "Gospel"
-url = "/gospel"
+url = "/top-level-pages/gospel"
 weight = 3
 
 [params]
