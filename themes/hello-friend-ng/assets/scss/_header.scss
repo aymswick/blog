@@ -8,13 +8,17 @@
  
   position: fixed;
   z-index: 10;
+  box-shadow: 0px 5px $shadow-color;
+  border: 1px solid $border-color;
+  border-radius: 2px;
   top: 0px;
   width: 100%;
   padding: 20px;
   
   font-family: 'Inter';
-  background-color: $background-secondary;
+  background-color: $background-tertiary;
   color: $text-color-secondary;
+  text-shadow: 2px 2px 2px $shadow-color;
 
   .title {
     display: flex;

@@ -55,19 +55,19 @@ h2, h3, h4, h5, h6 {
 
 h1 {
   font-family: 'Inter';
-  font-size: 2.625rem;
+  font-size: 4rem;
 }
 
 h2 {
-  font-size: 1.625rem;
+  font-size: 2.5rem;
 }
 
 h3 {
-  font-size: 1.375rem;
+  font-size: 1.5rem;
 }
 
 h4 {
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 @media #{$media-size-phone} {
@@ -229,6 +229,14 @@ ol ol {
   justify-content: center;
   margin: 50px 0;
 
+  a {
+    color: $background-tertiary;
+    
+    &:hover {
+      color: $background-tertiary;
+    }
+  }
+
   @media #{$media-size-phone} {
     margin-top: 0;
     margin-left: 1rem;
@@ -240,10 +248,6 @@ hr {
   width: 100%;
   border: none;
   height: 1px;
-
-  .dark-theme & {
-    background: $border-color;
-  }
 }
 
 .hidden {
@@ -300,10 +304,14 @@ hr {
 .card {
   margin-top: 2em;
   margin-bottom: 3em;
-  border: 2px solid $border-color;
-  background-color: $card-color;
-  color: $text-color-secondary;
+  border: 1px solid $border-color;
+  color: $text-color;
   box-shadow: 15px 15px $shadow-color;
+
+  @media #{$media-size-phone} {
+    box-shadow: 8px 8px $shadow-color;
+    margin-right: 8px;
+  }
 
   padding: 25px;
   display: flex;
@@ -313,21 +321,22 @@ hr {
 
   transition: transform .5s cubic-bezier(.17,.67,.98,.96);
   &:hover {
-    background-color: $card-color;
     border-color: $border-color;
     cursor: pointer;
-    transform: scale3d(1.1, 1.1, 1.1);
+    transform: scale3d(1.07, 1.07, 1.07),;
   }
   h1,h2,h3,h4,h5 {
-    color: $text-color-secondary;
+    color: $text-color;
   }
 }
 
 .download-btn {
   background-color: $background-tertiary;
-  color: $text-color-secondary;
+  color: $text-color-secondary !important;
   text-decoration: none;
   box-shadow: 5px 5px $shadow-color;
+  border: 1px solid $border-color;
+  border-radius: 2px;
 
   display: flex;
   justify-content: center;
@@ -336,6 +345,7 @@ hr {
 
   &:hover {
     background-color: $background-tertiary;
+    text-decoration: none !important;
     cursor: pointer;
     transform: scale3d(1.1, 1.1, 1.1);
   }
@@ -351,5 +361,3 @@ hr {
   font-style: italic;
   margin: -1px;
 }
-
-
