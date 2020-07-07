@@ -323,7 +323,7 @@ hr {
   &:hover {
     border-color: $border-color;
     cursor: pointer;
-    transform: scale3d(1.1, 1.1, 1.1);
+    transform: scale3d(1.07, 1.07, 1.07),;
   }
   h1,h2,h3,h4,h5 {
     color: $text-color;
