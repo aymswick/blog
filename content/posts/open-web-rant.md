@@ -1,5 +1,6 @@
 ---
 title: "Open Web Rant"
+tldr: "Please don't kill the web."
 date: 2020-07-10T13:30:52-07:00
 draft: false
 toc: false
@@ -35,7 +36,9 @@ the process of building a user-hostile web - I refuse to work for typical Silico
 companies who place shareholder value over social responsibility; I will no longer build
 infrastructure for any arm of the military industrial complex, nor will I assist in the
 colonization of the web for the wealthy. I urge my peers who are in similar positions of
-privilege to join me in this pledge. We deserve to spend our engineering talent working
+privilege to join me in this pledge. 
+
+We deserve to spend our engineering talent working
 for organizations that create meaningful, accessible products & services  *without* cannibalizing the
 society which enabled them to grow in the first place. The world will be a better place
 when engineers are poised to solve the immediate crises of our time - climate
