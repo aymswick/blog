@@ -1,7 +1,7 @@
 ---
 title: "Open Web Rant"
-date: 2020-05-26T13:30:52-07:00
-draft: true
+date: 2020-07-10T13:30:52-07:00
+draft: false
 toc: false
 images:
 tags:
@@ -32,7 +32,7 @@ developer, I am deeply troubled that many of my peers are forced by financial ne
 to work for organizations which are actively destroying the vision of the open web so
 many of us share. For this reason, I have taken an ethical stance to remove myself from
 the process of building a user-hostile web - I refuse to work for typical Silicon Valley
-companies who place shareholder value over social responsibility; I will not build
+companies who place shareholder value over social responsibility; I will no longer build
 infrastructure for any arm of the military industrial complex, nor will I assist in the
 colonization of the web for the wealthy. I urge my peers who are in similar positions of
 privilege to join me in this pledge. We deserve to spend our engineering talent working
@@ -40,7 +40,9 @@ for organizations that create meaningful, accessible products & services  *witho
 society which enabled them to grow in the first place. The world will be a better place
 when engineers are poised to solve the immediate crises of our time - climate
 instability, discriminatory allocation of housing & food, and the hijacking of computer
-networks to enable state-sponsored surveillance and propaganda.
+networks to enable state-sponsored surveillance and propaganda. You are not responsible
+for the circumstance you are born into, but you are the only one with the power to get
+out.
 
 ## IEEE Computer Society Code of Ethics
 For starters, let's take a look at the [Code of Ethics](https://www.computer.org/education/code-of-ethics) from a prominent professional society
@@ -88,7 +90,8 @@ Public interest is priority number one, above *employers* and *product* and even
 If you are a user of the proprietary platforms mentioned above, ask yourself whether
 their leadership (Mark Zuckerberg, Jeff Bezos, Peter Thiel, etc) has *ever* acted in the
 public interest. If you can find an example, consider that good deed against the backdrop
-of violations - in some cases the total subversion of democracy - and drop me a line at 
+of violations - in some cases the total subversion of democracy - and drop me a line at
+[anthony@symkowick.org](mailto:anthony@symkowick.org).
 
 ### Sources:
 
