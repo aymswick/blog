@@ -3,9 +3,6 @@
   border-left: 1px solid $text-color-secondary;
   width: 100%;
 
-  background: $background-tertiary;
-  color: $text-color-secondary;
-
   @media #{$media-size-phone} {
     position: absolute;
     top: 50px;
@@ -26,9 +23,21 @@
     list-style: none;
 
     li {
-      margin: 0 12px;
-      text-shadow: 2px 2px 2px $shadow-color;
+      padding: .5rem;
+      border-radius: 4px;
     }
+
+    li:nth-child(1):hover {
+      background: rgba(255,0,0,.5);
+    }
+    li:nth-child(2):hover {
+      background: rgba(0,255,0,.5);
+    }
+    li:nth-child(3):hover {
+      background: rgba(0,0,255,.5);
+    }
+
+    
 
     @media #{$media-size-phone} {
       flex-direction: column;

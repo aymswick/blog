@@ -1,33 +1,30 @@
 .header {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
+  position: fixed;
+  border: 1px solid black;
+  background: white;
   
   @media #{$media-size-phone} {
       justify-content: space-between;
   }
  
-  position: fixed;
   z-index: 10;
-  box-shadow: 0px 5px $shadow-color;
-  border: 1px solid $border-color;
-  border-radius: 2px;
   top: 0px;
   width: 100%;
   padding: 20px;
-  
-  font-family: 'Inter';
-  background-color: $background-tertiary;
-  color: $text-color-secondary;
-  text-shadow: 2px 2px 2px $shadow-color;
+  font-family: Jost;
 
   .title {
     display: flex;
     margin-right: 25px;
-
-    color: $text-color-secondary;
+    padding: .5rem;
     
     &:hover {
       cursor: pointer;
+      ::before {
+        content: "(anthony) "
+      }
     }
   }
 
@@ -43,7 +40,7 @@
 
   & a {
     text-decoration: none;
-    font-size: 1.25rem;
+    font-size: 2rem;
   }
 }
 
