@@ -14,16 +14,14 @@
 
   &__inner {
     display: flex;
-    align-items: flex-end;
+    align-items: center;
     justify-content: flex-end;
    
-    margin: 0 auto;
-    padding: 0 15px;
     font-size: 1rem;
     list-style: none;
 
     li {
-      padding: .5rem;
+      padding: 1rem;
       border-radius: 4px;
     }
 
@@ -37,16 +35,33 @@
       background: rgba(0,0,255,.5);
     }
 
-    
-
     @media #{$media-size-phone} {
       flex-direction: column;
       align-items: center;
-      padding: 0;
+      background: $background;
+      padding: 1rem;
+
+      border: 1px solid black;
+      border-radius: 4px;
 
       li {
-        margin: 0;
-        padding: 5px;
+        margin: .5rem;
+        width: 100%;
+        padding: 1rem;
+        border: 1px solid black;
+        border-radius: 4px;
+      }
+
+      li:nth-child(1) {
+        background: rgba(255,0,0,.5);
+      }
+
+      li:nth-child(2) {
+        background: rgba(0,255,0,.5);
+      }
+
+      li:nth-child(3) {
+        background: rgba(0,0,255,.5);
       }
     }
   }
@@ -54,8 +69,8 @@
   &-trigger {
     width: 24px;
     height: 24px;
-    fill: currentColor;
-    margin-left: 10px;
+    align-items: flex-start;
+    fill: rgba(0,0,255,.5);
     cursor: pointer;
   }
 
