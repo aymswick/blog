@@ -9,5 +9,6 @@ Below are some Programming/Software Texts from around the web that have facilita
 
 > [Vim: Seven Habits of Effective Text Editing](https://www.moolenaar.net/habits.html)
 > by Bram Moolenaar
+
 > [Freedom Isn't Free](https://logicmag.io/failure/freedom-isnt-free/)
 > by Wendy Liu
