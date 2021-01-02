@@ -295,36 +295,36 @@ hr {
 	left: 5px;
 	line-height: normal;
 	padding: 15px 23px 14px;
-	text-decoration: none;
+	//text-decoration: none;
 	top: 5px;
 	width: auto;
 	z-index: 100000;
 }
 
 .card {
-  margin-top: 2em;
-  margin-bottom: 3em;
-  border: 1px solid $border-color;
-  border-radius: 4px;
   color: $text-color;
-  box-shadow: 15px 15px $shadow-color;
 
   @media #{$media-size-phone} {
-    box-shadow: 8px 8px $shadow-color;
     margin-right: 8px;
   }
 
   padding: 25px;
   display: flex;
   flex-direction: column;
+  text-align: left;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
 
-  transition: transform .5s cubic-bezier(.17,.67,.98,.96);
+  transition: transform .25s cubic-bezier(.17,.67,.98,.96);
   &:hover {
-    border-color: $border-color;
+    //border-color: $border-color;
     cursor: pointer;
-    transform: scale3d(1.07, 1.07, 1.07),;
+    background: $background-tertiary;
+    color: $text-color-secondary;
+    h1,h2,h3,h4,h5 {
+      color: $text-color-secondary;
+    }
+    //transform: scale3d(1.07, 1.07, 1.07),;
   }
   h1,h2,h3,h4,h5 {
     color: $text-color;
@@ -342,13 +342,15 @@ hr {
   display: flex;
   justify-content: center;
   padding: 15px 25px 15px 25px;
+  margin-left: 25px;
+  margin-right: 25px;
   transition: transform .5s cubic-bezier(.17,.67,.98,.96);
 
   &:hover {
     background-color: $background-tertiary;
-    text-decoration: none !important;
+    //text-decoration: none !important;
     cursor: pointer;
-    transform: scale3d(1.1, 1.1, 1.1);
+    //transform: scale3d(1.1, 1.1, 1.1);
   }
 }
 

@@ -2,7 +2,6 @@
   display: flex;
   justify-content: flex-start;
   position: fixed;
-  border: 1px solid black;
   background: $background;
   
   @media #{$media-size-phone} {
