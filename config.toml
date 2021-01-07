@@ -17,10 +17,16 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
+identifier = "music"
+name = "Music"
+url = "/music"
+weight= 3
+
+[[menu.main]]
 identifier = "gospel"
 name = "Gospel"
-url = "/top-level-pages/gospel"
-weight = 3
+url = "/gospel"
+weight = 4
 
 [params]
 contentTypeName = "posts"
