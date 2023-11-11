@@ -25,9 +25,9 @@ url = "/music"
 weight= 3
 
 [[menu.main]]
-identifier = "programming tips"
-name = "programming tips"
-url = "/gospel"
+identifier = "texts"
+name = "texts"
+url = "/texts"
 weight = 4
 
 [params]
