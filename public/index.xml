@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Anthony Symkowick</title>
+    <title>Home on ant&#39;s blog</title>
     <link>https://symkowick.org/</link>
-    <description>Recent content in Home on Anthony Symkowick</description>
+    <description>Recent content in Home on ant&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
@@ -54,7 +54,7 @@
     </item>
     
     <item>
-      <title>Gospel</title>
+      <title>sacred programming texts</title>
       <link>https://symkowick.org/gospel/</link>
       <pubDate>Thu, 25 Jun 2020 18:22:38 -0700</pubDate>
       

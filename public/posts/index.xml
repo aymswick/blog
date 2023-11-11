@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Anthony Symkowick</title>
+    <title>Posts on ant&#39;s blog</title>
     <link>https://symkowick.org/posts/</link>
-    <description>Recent content in Posts on Anthony Symkowick</description>
+    <description>Recent content in Posts on ant&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
@@ -179,7 +179,7 @@ from predatory data brokers and toward our collective well-being.&lt;/p&gt;
       <pubDate>Fri, 10 Jul 2020 13:30:52 -0700</pubDate>
       
       <guid>https://symkowick.org/posts/open-web-rant/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/spiderweb.jpg&#34; alt=&#34;Spiderweb&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;../images/spiderweb.jpg&#34; alt=&#34;Spiderweb&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-web-is-being-polluted-by-capital&#34;&gt;The Web is Being Polluted by Capital&lt;/h2&gt;
 &lt;p&gt;I believe that the internet should be a freely available utility for all people. In its
 purest form, the internet is the technology that enables the web - a portal through which
@@ -231,7 +231,7 @@ the entirety of my life, massive corporate giants have pushed knowledge workers 
 precipice of treason in the name of infinite growth, feeding their egos with mission
 statements to &amp;ldquo;change the world&amp;rdquo;, disguising the chance to architect platforms of oppression as those of &lt;em&gt;expression&lt;/em&gt;, and numerous other forms of tactful misdirection.&lt;/p&gt;
 &lt;p&gt;What follows this paragraph is a list of 8 principles that IEEE CS suggests embody the spirit of ethical software development. Critically, the &lt;em&gt;first&lt;/em&gt; responsbility we have is to the public interest!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/ethics-code-iee-cs.png&#34; alt=&#34;Eight Principles - IEEE CS Code of Ethics&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/ethics-code-iee-cs.png&#34; alt=&#34;Eight Principles - IEEE CS Code of Ethics&#34;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;PUBLIC – Software engineers shall act consistently with the public interest.&lt;/p&gt;
@@ -296,12 +296,12 @@ common one-line examples of how a program is used. Yes, you should still read
 the man page, but this can save you some time.&lt;/p&gt;
 &lt;p&gt;Compare the results below for Hugo, a static site generator:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ man hugo
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/man-hugo.gif&#34; alt=&#34;man&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/man-hugo.gif&#34; alt=&#34;man&#34;&gt;&lt;/p&gt;
 &lt;p&gt;lots of info there&amp;hellip;could be a while!&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ tldr hugo
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;There we go! Immediately I know how the developer of hugo intends me to use it -
 just type &lt;strong&gt;hugo new site&lt;/strong&gt; in any directory I&amp;rsquo;d like to create my website.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/tldr-hugo.gif&#34; alt=&#34;tldr&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/tldr-hugo.gif&#34; alt=&#34;tldr&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;2-cat---bat&#34;&gt;2. Cat -&amp;gt; Bat&lt;/h2&gt;
 &lt;p&gt;The &lt;a href=&#34;http://man7.org/linux/man-pages/man1/cat.1.html&#34;&gt;&lt;strong&gt;Cat&lt;/strong&gt;&lt;/a&gt; command is pretty much
 unavoidable when working with the terminal - it allows concatenation of files
@@ -310,12 +310,12 @@ spit out the contents of a file!&lt;/p&gt;
 &lt;p&gt;If I wanted to see the contents of a JavaScript file, I would simply:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat example.js
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;and we would get the contents of the file, simply and without fanfare:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/cat.gif&#34; alt=&#34;cat&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/cat.gif&#34; alt=&#34;cat&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is great, but the &lt;a href=&#34;https://github.com/sharkdp/bat&#34;&gt;&lt;strong&gt;bat&lt;/strong&gt;&lt;/a&gt; command improves
 readability of code by adding line numbers and syntax highlighting, all without
 sacrificing POSIX compatibility for piping into other programs.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ batcat example.js
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/bat.gif&#34; alt=&#34;bat&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/bat.gif&#34; alt=&#34;bat&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Awesome! It even opens in a pager (like the &lt;em&gt;less&lt;/em&gt; command) for vertical
 scrolling. If you want this functionality by using the same keyword - cat - you
 can set up an alias in your shell. I use &lt;a href=&#34;http://www.zsh.org/&#34;&gt;zsh&lt;/a&gt;, and have
@@ -326,14 +326,14 @@ aliased bat as follows:&lt;/p&gt;
 directories are taking up the most space - useful when you&amp;rsquo;ve run out of said
 space!&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ du
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/du.gif&#34; alt=&#34;du&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/du.gif&#34; alt=&#34;du&#34;&gt;&lt;/p&gt;
 &lt;p&gt;er, ok, looks like we are listing folders and files with numbers prepended to
 their entries. Hmm. You can see that it&amp;rsquo;s gonna take some grokking to make sense of this
 data.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s try the rust replacement, &lt;a href=&#34;https://github.com/bootandy/dust&#34;&gt;&lt;strong&gt;dust&lt;/strong&gt;&lt;/a&gt; - like du but more intuitive, (straight from the
 tool website)!&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ dust
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/dust.gif&#34; alt=&#34;dust&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/dust.gif&#34; alt=&#34;dust&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Wow, right away we are given a hierarchical view of the items within the
 Downloads folder - accompanied by a graph of size by percentage - or how much of
 the total folder size each subfolder is responsible for. Neat! Looks like that
@@ -348,12 +348,12 @@ sizes, permissions, and more. The below example will show off listing all
 (including hidden) files in the &lt;strong&gt;-l&lt;/strong&gt; long format to get those other items I
 mentioned.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ ls -la --color
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/ls.gif&#34; alt=&#34;ls&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/ls.gif&#34; alt=&#34;ls&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This looks all right, and &lt;strong&gt;ls&lt;/strong&gt; is pretty configurable as far as output formats.
 However, with &lt;a href=&#34;https://the.exa.website/&#34;&gt;&lt;strong&gt;exa&lt;/strong&gt;&lt;/a&gt; we get some enhanced color and
 sane defaults.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ exa -la
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://symkowick.org/images/exa.gif&#34; alt=&#34;exa&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/exa.gif&#34; alt=&#34;exa&#34;&gt;&lt;/p&gt;
 &lt;p&gt;See how the permissions and owners are also color-coordinated? Nice. The exa
 website also notes that exa runs in parallel, so you might see much faster
 performance working in huge directories.&lt;/p&gt;
