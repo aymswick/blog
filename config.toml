@@ -1,30 +1,32 @@
 baseURL = "https://symkowick.org/"
+relativeUrls = true
 languageCode = "en-us"
-theme = "hello-friend-ng"
 pygmentsUseClasses = true
 
-title = "Anthony Symkowick"
+theme = "ant_theme"
+
+title = "ant's blog"
 [[menu.main]]
 identifier = "home"
-name = "Home"
+name = "home"
 url = "/"
 weight = 1
 
 [[menu.main]]
 identifier = "blog"
-name = "Blog"
+name = "posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
 identifier = "music"
-name = "Music"
+name = "music"
 url = "/music"
 weight= 3
 
 [[menu.main]]
-identifier = "gospel"
-name = "Gospel"
+identifier = "programming tips"
+name = "programming tips"
 url = "/gospel"
 weight = 4
 
@@ -33,7 +35,7 @@ contentTypeName = "posts"
 description = "Personal website & blog of Anthony Symkowick."
 homeSubtitle = "anthony symkowick"
 images = [""]
-keywords = ''' anthony symkowick, anthony, symkowick, blog, software, javascript,
+keywords = ''' anthony symkowick, anthony, symkowick, engineer, software engineering blog, software, javascript, flutter, dart,
 development, programming, small web, ethical development '''
 
 [taxonomies]
