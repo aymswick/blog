@@ -1,14 +1,15 @@
 {{ define "main" }}
   {{ .Content }}
-  <!-- {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }} -->
+  <div class="home">
+  <h3>a software engineer and musician</h3>
 
-  
-  <h4>a software engineer and musician</h4>
+  <image class="profile" src="/white.png" width="300" height="300"/>
+  <div class="home-links"> 
+    <a href="https://social.extremelyoffline.org/auth/sign_up">join</a>
+    me at 
+    <a href="https://social.extremelyoffline.org/deck/@ant">social.extremelyoffline.org</a>
+  </div>
+  <h6>I code mostly in Dart via Flutter</h6>
 
-  <a href="https://social.extremelyoffline.org/auth/sign_up">join</a>
-  me at 
-  <a href="https://social.extremelyoffline.org/deck/@ant">social.extremelyoffline.org</a>
+</div>
 {{ end }}

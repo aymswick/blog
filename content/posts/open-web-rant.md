@@ -13,7 +13,9 @@ tags:
   - small web
   - web centralization
 ---
-![Spiderweb](/images/spiderweb.jpg)
+
+<image src="/images/spiderweb.jpg" width="480" height="320">
+
 ## The Web is Being Polluted by Capital
 I believe that the internet should be a freely available utility for all people. In its
 purest form, the internet is the technology that enables the web - a portal through which
