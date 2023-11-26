@@ -6,10 +6,12 @@
   <div class="post-timestamp">
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
   </div>
+
   <div class="post">
     {{ .Content }}
   </div>  
-  <h4>hi</h4>
+
+  <div>
   <script src="https://utteranc.es/client.js"
           repo="aymswick/blog"
           issue-term="pathname"
@@ -18,6 +20,8 @@
           crossorigin="anonymous"
   async>
   </script>
+  </div>
+  
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
  
