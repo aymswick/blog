@@ -9,6 +9,16 @@
   <div class="post">
     {{ .Content }}
   </div>  
-
+  <h4>hi</h4>
+  <script src="https://utteranc.es/client.js"
+          repo="aymswick/blog"
+          issue-term="pathname"
+          label="utterances"
+          theme="github-dark"
+          crossorigin="anonymous"
+  async>
+  </script>
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+ 
 {{ end }}
