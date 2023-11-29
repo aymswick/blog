@@ -78,6 +78,17 @@ image {
   margin-top: 1rem;
 }
 
+.spotlighted_post {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 1rem;
+  padding: 1rem;
+  width: 80%;
+  border: 1px solid #00ff00;
+}
+
 .profile {
   border-radius: 12px;
 }

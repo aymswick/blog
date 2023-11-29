@@ -4,13 +4,26 @@
   <h3>a software engineer and musician</h3>
 
   <image class="profile" src="/white.png" width="300" height="300"/>
+
+
+  
+
   <div class="home-links"> 
     <a href="https://social.extremelyoffline.org/auth/sign_up">join</a>
     me at 
 
     <a rel="me" href="https://social.extremelyoffline.org/@ant">social.extremelyoffline.org</a>
   </div>
-  <h6>I code mostly in Dart via Flutter</h6>
+
+
+  {{ range ( where .Site.RegularPages "Type" "posts" | first 1 ) }}
+    <div class="spotlighted_post">  
+
+      <p>{{ .Summary }} </p>
+      <a href="{{ .Permalink }}"> Read More -></a>
+
+    </div>
+  {{end}}
 
 </div>
 {{ end }}
