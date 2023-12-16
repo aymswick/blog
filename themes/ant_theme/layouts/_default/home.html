@@ -15,15 +15,20 @@
     <a rel="me" href="https://social.extremelyoffline.org/@ant">social.extremelyoffline.org</a>
   </div>
 
+    {{ range (where .Site.RegularPages "Title" "eq" "Enwebbed") }}
+      <p class="spotlighted-post"> {{ .Summary }} <a href="{{ .Permalink }}"> Read More -></a></p>
+      
+    {{end}}
 
-  {{ range ( where .Site.RegularPages "Type" "posts" | first 1 ) }}
+  <!-- Show the latest post-->
+  <!-- {{ range ( where .Site.RegularPages "Type" "posts" | first 1 ) }}
     <div class="spotlighted_post">  
 
-      <p>{{ .Summary }} </p>
-      <a href="{{ .Permalink }}"> Read More -></a>
+      <p>{{ .Summary | first 200}}... <a href="{{ .Permalink }}"> Read More -></a>
+      </p>
 
     </div>
-  {{end}}
+  {{end}} -->
 
 </div>
 {{ end }}
