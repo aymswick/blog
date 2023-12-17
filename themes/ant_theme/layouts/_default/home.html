@@ -21,14 +21,14 @@
     {{end}}
 
   <!-- Show the latest post-->
-  <!-- {{ range ( where .Site.RegularPages "Type" "posts" | first 1 ) }}
-    <div class="spotlighted_post">  
-
+  {{ range (where .Site.RegularPages "Title" "eq" "Does Your Terminal Spark Joy?") }}
+  <h1>Posts</h1>
+  <div class="recent-posts">  
       <p>{{ .Summary | first 200}}... <a href="{{ .Permalink }}"> Read More -></a>
       </p>
 
     </div>
-  {{end}} -->
+  {{end}}
 
 </div>
 {{ end }}

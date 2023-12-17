@@ -89,6 +89,16 @@ image {
   border-top: 1px solid #00ff00;
 }
 
+.recent-posts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 1rem;
+  padding: 1rem;
+  max-width: 80ch;
+  border: 1px solid #00ff00;
+}
+
 .profile {
   border-radius: 12px;
 }

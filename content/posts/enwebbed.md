@@ -1,8 +1,7 @@
 ---
 title: "Enwebbed"
-tldr: "I believe that the web survives..."
-date: 2023-11-28T23:16:38-06:00
-summary:
+summary: "I miss the old web when people paid attention - a home where I was never algorithimically assigned a fraction of my peers' zombified lifeforce based on innumerable, unknowable transactions stamped across 12 availability zones faster than I can blink. I believe that that web survives."
+date: 2023-11-28
 tags:
   - web
   - politics
