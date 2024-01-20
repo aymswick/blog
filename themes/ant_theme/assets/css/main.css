@@ -51,12 +51,8 @@ header {
   width: 100%;
 }
 
-footer {
-  /* border: 1px solid red; */
-  display: flex;
-  flex-direction: column;
-  justify-content: end;
-  height: 100vh;
+.footer {
+ margin-top: 1rem;
 }
 
 a {
@@ -95,10 +91,9 @@ image {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-top: 1rem;
   padding: 1rem;
   max-width: 80ch;
-  border: 1px solid #00ff00;
+/*  border: 1px solid #00ff00;*/
 }
 
 .profile {

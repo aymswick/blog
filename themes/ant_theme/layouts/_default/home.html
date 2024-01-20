@@ -22,10 +22,8 @@
 
   <!-- Show the latest post-->
   {{ range (where .Site.RegularPages "Title" "eq" "Does Your Terminal Spark Joy?") }}
-  <h1>Posts</h1>
   <div class="recent-posts">  
-      <p>{{ .Summary | first 200}}... <a href="{{ .Permalink }}"> Read More -></a>
-      </p>
+      <a href="{{ .Permalink }}"> {{ .Title | first 200}}</a>
 
     </div>
   {{end}}
