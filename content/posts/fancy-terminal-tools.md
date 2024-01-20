@@ -27,7 +27,8 @@ Compare the results below for Hugo, a static site generator:
 $ man hugo
 ```
 
-![man](/images/man-hugo.gif)
+
+{{< figure src="/images/man-hugo.gif" title="hugo man page" height="60%" width="70%" >}}
 
 lots of info there...could be a while!
 
@@ -38,7 +39,8 @@ $ tldr hugo
 There we go! Immediately I know how the developer of hugo intends me to use it -
 just type **hugo new site** in any directory I'd like to create my website.
 
-![tldr](/images/tldr-hugo.gif)
+
+{{< figure src="/images/tldr-hugo.gif" title="hugo man page" height="60%" width="70%" >}}
 
 
 ## 2. Cat -> Bat
@@ -55,7 +57,7 @@ $ cat example.js
 
 and we would get the contents of the file, simply and without fanfare:
 
-![cat](/images/cat.gif)
+{{< figure src="/images/cat.gif" title="hugo man page" height="60%" width="70%" >}}
 
 This is great, but the [**bat**](https://github.com/sharkdp/bat) command improves
 readability of code by adding line numbers and syntax highlighting, all without
@@ -64,7 +66,7 @@ sacrificing POSIX compatibility for piping into other programs.
 ```
 $ batcat example.js
 ```
-![bat](/images/bat.gif)
+{{< figure src="/images/bat.gif" title="hugo man page" height="60%" width="70%" >}}
 
 Awesome! It even opens in a pager (like the *less* command) for vertical
 scrolling. If you want this functionality by using the same keyword - cat - you
@@ -85,7 +87,7 @@ space!
 $ du
 ```
 
-![du](/images/du.gif)
+{{< figure src="/images/du.gif" title="hugo man page" height="60%" width="70%" >}}
 
 er, ok, looks like we are listing folders and files with numbers prepended to
 their entries. Hmm. You can see that it's gonna take some grokking to make sense of this
@@ -97,7 +99,7 @@ tool website)!
 ```
 $ dust
 ```
-![dust](/images/dust.gif)
+{{< figure src="/images/dust.gif" title="hugo man page" height="60%" width="70%" >}}
 
 Wow, right away we are given a hierarchical view of the items within the
 Downloads folder - accompanied by a graph of size by percentage - or how much of
@@ -119,7 +121,7 @@ mentioned.
 ```
 $ ls -la --color
 ```
-![ls](/images/ls.gif)
+{{< figure src="/images/ls.gif" title="hugo man page" height="60%" width="70%" >}}
 
 This looks all right, and **ls** is pretty configurable as far as output formats.
 However, with [**exa**](https://the.exa.website/) we get some enhanced color and
@@ -128,7 +130,7 @@ sane defaults.
 ```
 $ exa -la
 ```
-![exa](/images/exa.gif)
+{{< figure src="/images/exa.gif" title="hugo man page" height="60%" width="70%" >}}
 
 See how the permissions and owners are also color-coordinated? Nice. The exa
 website also notes that exa runs in parallel, so you might see much faster
