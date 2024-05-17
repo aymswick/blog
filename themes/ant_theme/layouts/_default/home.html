@@ -13,6 +13,13 @@
     me at 
 
     <a rel="me" href="https://social.extremelyoffline.org/@ant">social.extremelyoffline.org</a>
+
+    {{ range (where .Site.RegularPages "Title" "eq" "Career Update Mid-2024") }}
+    <div class="recent-posts">  
+        <h2><a href="{{ .Permalink }}"> {{ .Title | first 200}}</a></h2>
+  
+      </div>
+    {{end}}
   </div>
 
     {{ range (where .Site.RegularPages "Title" "eq" "Enwebbed") }}
@@ -20,13 +27,15 @@
       
     {{end}}
 
-  <!-- Show the latest post-->
   {{ range (where .Site.RegularPages "Title" "eq" "Does Your Terminal Spark Joy?") }}
   <div class="recent-posts">  
       <a href="{{ .Permalink }}"> {{ .Title | first 200}}</a>
 
     </div>
   {{end}}
+
+
+
 
 </div>
 {{ end }}
