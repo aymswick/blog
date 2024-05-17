@@ -106,8 +106,8 @@ image {
 }
 
 .post-wrapper {
-  margin-left: 4rem;
-  margin-right: 4rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
