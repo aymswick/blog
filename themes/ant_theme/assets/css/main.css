@@ -101,8 +101,8 @@ image {
 }
 
 .post {
-  max-width: 80ch;
-  font-size: 20px;
+  max-width: 120ch;
+  font-size: 18px;
 }
 
 .post-wrapper {
