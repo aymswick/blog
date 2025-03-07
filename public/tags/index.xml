@@ -1,120 +1,237 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ant&#39;s blog</title>
-    <link>https://symkowick.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on ant&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://symkowick.org/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>blue</title>
-      <link>https://symkowick.org/tags/blue/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <title>Creative Writing</title>
+      <link>http://localhost:1313/tags/creative-writing/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://symkowick.org/tags/blue/</guid>
+      <guid>http://localhost:1313/tags/creative-writing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>green</title>
-      <link>https://symkowick.org/tags/green/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <title>Development</title>
+      <link>http://localhost:1313/tags/development/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://symkowick.org/tags/green/</guid>
+      <guid>http://localhost:1313/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>red</title>
-      <link>https://symkowick.org/tags/red/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <title>Me</title>
+      <link>http://localhost:1313/tags/me/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://symkowick.org/tags/red/</guid>
+      <guid>http://localhost:1313/tags/me/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ethics</title>
-      <link>https://symkowick.org/tags/ethics/</link>
+      <title>Politics</title>
+      <link>http://localhost:1313/tags/politics/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain</title>
+      <link>http://localhost:1313/tags/brain/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/tags/health/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antitrust</title>
+      <link>http://localhost:1313/tags/antitrust/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/antitrust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Billionaires</title>
+      <link>http://localhost:1313/tags/billionaires/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/billionaires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computers</title>
+      <link>http://localhost:1313/tags/computers/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/computers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>http://localhost:1313/tags/ethics/</link>
       <pubDate>Fri, 13 Nov 2020 20:52:13 -0800</pubDate>
       
-      <guid>https://symkowick.org/tags/ethics/</guid>
+      <guid>http://localhost:1313/tags/ethics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>industry</title>
-      <link>https://symkowick.org/tags/industry/</link>
+      <title>Industry</title>
+      <link>http://localhost:1313/tags/industry/</link>
       <pubDate>Fri, 13 Nov 2020 20:52:13 -0800</pubDate>
       
-      <guid>https://symkowick.org/tags/industry/</guid>
+      <guid>http://localhost:1313/tags/industry/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>software</title>
-      <link>https://symkowick.org/tags/software/</link>
+      <title>Software</title>
+      <link>http://localhost:1313/tags/software/</link>
       <pubDate>Fri, 13 Nov 2020 20:52:13 -0800</pubDate>
       
-      <guid>https://symkowick.org/tags/software/</guid>
+      <guid>http://localhost:1313/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>free software</title>
-      <link>https://symkowick.org/tags/free-software/</link>
+      <title>Free Software</title>
+      <link>http://localhost:1313/tags/free-software/</link>
       <pubDate>Sun, 26 Jul 2020 20:39:54 -0700</pubDate>
       
-      <guid>https://symkowick.org/tags/free-software/</guid>
+      <guid>http://localhost:1313/tags/free-software/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>surveillance</title>
-      <link>https://symkowick.org/tags/surveillance/</link>
+      <title>Surveillance</title>
+      <link>http://localhost:1313/tags/surveillance/</link>
       <pubDate>Sun, 26 Jul 2020 20:39:54 -0700</pubDate>
       
-      <guid>https://symkowick.org/tags/surveillance/</guid>
+      <guid>http://localhost:1313/tags/surveillance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>open web</title>
-      <link>https://symkowick.org/tags/open-web/</link>
+      <title>Open Web</title>
+      <link>http://localhost:1313/tags/open-web/</link>
       <pubDate>Fri, 10 Jul 2020 13:30:52 -0700</pubDate>
       
-      <guid>https://symkowick.org/tags/open-web/</guid>
+      <guid>http://localhost:1313/tags/open-web/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>small web</title>
-      <link>https://symkowick.org/tags/small-web/</link>
+      <title>Small Web</title>
+      <link>http://localhost:1313/tags/small-web/</link>
       <pubDate>Fri, 10 Jul 2020 13:30:52 -0700</pubDate>
       
-      <guid>https://symkowick.org/tags/small-web/</guid>
+      <guid>http://localhost:1313/tags/small-web/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>web centralization</title>
-      <link>https://symkowick.org/tags/web-centralization/</link>
+      <title>Web Centralization</title>
+      <link>http://localhost:1313/tags/web-centralization/</link>
       <pubDate>Fri, 10 Jul 2020 13:30:52 -0700</pubDate>
       
-      <guid>https://symkowick.org/tags/web-centralization/</guid>
+      <guid>http://localhost:1313/tags/web-centralization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>untagged</title>
-      <link>https://symkowick.org/tags/untagged/</link>
-      <pubDate>Mon, 13 Jan 2020 20:25:19 -0800</pubDate>
+      <title>Agile</title>
+      <link>http://localhost:1313/tags/agile/</link>
+      <pubDate>Wed, 01 Jul 2020 17:04:24 -0700</pubDate>
       
-      <guid>https://symkowick.org/tags/untagged/</guid>
+      <guid>http://localhost:1313/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Wed, 01 Jul 2020 17:04:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onboarding</title>
+      <link>http://localhost:1313/tags/onboarding/</link>
+      <pubDate>Wed, 01 Jul 2020 17:04:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/onboarding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/tags/tools/</link>
+      <pubDate>Wed, 01 Jul 2020 17:04:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticorporate</title>
+      <link>http://localhost:1313/tags/anticorporate/</link>
+      <pubDate>Sat, 13 Jun 2020 11:27:12 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/anticorporate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delete Facebook</title>
+      <link>http://localhost:1313/tags/delete-facebook/</link>
+      <pubDate>Sat, 13 Jun 2020 11:27:12 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/delete-facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untagged</title>
+      <link>http://localhost:1313/tags/untagged/</link>
+      <pubDate>Sun, 12 Apr 2020 15:33:26 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/untagged/</guid>
       <description></description>
     </item>
     

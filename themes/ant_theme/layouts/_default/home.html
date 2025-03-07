@@ -1,41 +1,25 @@
 {{ define "main" }}
   {{ .Content }}
   <div class="home">
-  <h3>a software engineer and musician</h3>
+  <h1>a software engineer and musician</h1>
 
-  <image class="profile" src="/white.png" width="300" height="300"/>
-
-
-  
-
-  <div class="home-links"> 
-    <a href="https://social.extremelyoffline.org/auth/sign_up">join</a>
-    me at 
-
-    <a rel="me" href="https://social.extremelyoffline.org/@ant">social.extremelyoffline.org</a>
-
-    {{ range (where .Site.RegularPages "Title" "eq" "Career Update Mid-2024") }}
-    <div class="recent-posts">  
-        <h2><a href="{{ .Permalink }}"> {{ .Title | first 200}}</a></h2>
-  
-      </div>
-    {{end}}
-  </div>
-
-    {{ range (where .Site.RegularPages "Title" "eq" "Enwebbed") }}
+  <!-- Spotlighted Post -->
+  {{ range (where .Site.RegularPages "Title" "eq" "Enwebbed") }}
       <p class="spotlighted-post"> {{ .Summary }} <a href="{{ .Permalink }}"> Read More -></a></p>
       
     {{end}}
 
-  {{ range (where .Site.RegularPages "Title" "eq" "Does Your Terminal Spark Joy?") }}
-  <div class="recent-posts">  
-      <a href="{{ .Permalink }}"> {{ .Title | first 200}}</a>
+    <!-- Range where specific post -->
+    <!-- {{ range (where .Site.RegularPages "Title" "eq" "Flowering Moon") }}
+    <div class="recent-posts">  
+        <h2><a href="{{ .Permalink }}"> {{ .Title | first 200}}</a></h2>
+      </div>
+    {{end}} -->
 
+    <div class="list">
+      {{ range .Site.RegularPages  | first 5}}
+        <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+      {{ end }}    
     </div>
-  {{end}}
-
-
-
-
 </div>
 {{ end }}

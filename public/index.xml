@@ -1,73 +1,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on ant&#39;s blog</title>
-    <link>https://symkowick.org/</link>
-    <description>Recent content in Home on ant&#39;s blog</description>
+    <title>ant&#39;s blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ant&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://symkowick.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://symkowick.org/posts/</link>
-      <pubDate>Sun, 01 Jan 2023 08:30:00 -0700</pubDate>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://symkowick.org/posts/</guid>
-      <description>&lt;p&gt;Tempor est exercitation ad qui pariatur quis adipisicing aliquip nisi ea consequat ipsum occaecat. Nostrud consequat ullamco laboris fugiat esse esse adipisicing velit laborum ipsum incididunt ut enim. Dolor pariatur nulla quis fugiat dolore excepteur. Aliquip ad quis aliqua enim do consequat.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/posts/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://symkowick.org/music/</link>
+      <link>http://localhost:1313/music/</link>
       <pubDate>Wed, 06 Jan 2021 18:26:19 -0800</pubDate>
       
-      <guid>https://symkowick.org/music/</guid>
+      <guid>http://localhost:1313/music/</guid>
       <description>
 &lt;!-- LIFO order --&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981165655&amp;color=%234c5659&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/anthony-symkowick&#34; title=&#34;Anthony Symkowick&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Anthony Symkowick&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/anthony-symkowick/catfishing&#34; title=&#34;Catfishing&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Catfishing&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&#34;music&#34;&gt;
+&lt;iframe width=&#34;80%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981165655&amp;color=%234c5659&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/anthony-symkowick&#34; title=&#34;Anthony Symkowick&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Anthony Symkowick&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/anthony-symkowick/catfishing&#34; title=&#34;Catfishing&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Catfishing&lt;/a&gt;&lt;/div&gt;
 
 &lt;br/&gt;
 &lt;br/&gt;
 
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/967622071&amp;color=%232c3031&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/anthony-symkowick&#34; title=&#34;Anthony Symkowick&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Anthony Symkowick&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/anthony-symkowick/icrashedmybikeintoarailroad&#34; title=&#34;icrashedmybikeintoarailroad&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;icrashedmybikeintoarailroad&lt;/a&gt;&lt;/div&gt;
+&lt;iframe width=&#34;80%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/967622071&amp;color=%232c3031&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/anthony-symkowick&#34; title=&#34;Anthony Symkowick&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Anthony Symkowick&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/anthony-symkowick/icrashedmybikeintoarailroad&#34; title=&#34;icrashedmybikeintoarailroad&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;icrashedmybikeintoarailroad&lt;/a&gt;&lt;/div&gt;
 
 &lt;br/&gt; 
 &lt;br/&gt;
 
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/837948946&amp;color=%23726355&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/anthony-symkowick&#34; title=&#34;Anthony Symkowick&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Anthony Symkowick&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/anthony-symkowick/constant-knot-city-and-colour-cover&#34; title=&#34;Constant Knot (City and Colour cover)&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Constant Knot (City and Colour cover)&lt;/a&gt;&lt;/div&gt;
+&lt;iframe width=&#34;80%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/837948946&amp;color=%23726355&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/anthony-symkowick&#34; title=&#34;Anthony Symkowick&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Anthony Symkowick&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/anthony-symkowick/constant-knot-city-and-colour-cover&#34; title=&#34;Constant Knot (City and Colour cover)&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Constant Knot (City and Colour cover)&lt;/a&gt;&lt;/div&gt;
 
 &lt;br/&gt;
 &lt;br/&gt;
 
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/970352026&amp;color=%23344464&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/anthony-symkowick&#34; title=&#34;Anthony Symkowick&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Anthony Symkowick&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/anthony-symkowick/climb&#34; title=&#34;Climb&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Climb&lt;/a&gt;&lt;/div&gt;
+&lt;iframe width=&#34;80%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/970352026&amp;color=%23344464&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/anthony-symkowick&#34; title=&#34;Anthony Symkowick&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Anthony Symkowick&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/anthony-symkowick/climb&#34; title=&#34;Climb&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Climb&lt;/a&gt;&lt;/div&gt;
 
 &lt;br/&gt;
 &lt;br/&gt;
 
- &lt;iframe style=&#34;border: 0; width: 400px; height: 274px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=3801401512/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://highsobriety.bandcamp.com/album/raw-materials&#34;&gt;raw materials by highsobriety&lt;/a&gt;&lt;/iframe&gt;
-</description>
+ &lt;iframe style=&#34;border: 0; width: 80; height: 274px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=3801401512/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://highsobriety.bandcamp.com/album/raw-materials&#34;&gt;raw materials by highsobriety&lt;/a&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>sacred programming texts</title>
-      <link>https://symkowick.org/gospel/</link>
+      <link>http://localhost:1313/texts/</link>
       <pubDate>Thu, 25 Jun 2020 18:22:38 -0700</pubDate>
       
-      <guid>https://symkowick.org/gospel/</guid>
+      <guid>http://localhost:1313/texts/</guid>
       <description>&lt;p&gt;Below are some Programming/Software Texts from around the web that have facilitated my learning:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.moolenaar.net/habits.html&#34;&gt;Vim: Seven Habits of Effective Text Editing&lt;/a&gt;
-by Bram Moolenaar&lt;/p&gt;
-&lt;/blockquote&gt;
+by Bram Moolenaar&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://logicmag.io/failure/freedom-isnt-free/&#34;&gt;Freedom Isn&amp;rsquo;t Free&lt;/a&gt;
-by Wendy Liu&lt;/p&gt;
-&lt;/blockquote&gt;
+by Wendy Liu&lt;/p&gt;&lt;/blockquote&gt;
 </description>
     </item>
     

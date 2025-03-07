@@ -1,65 +1,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ant&#39;s blog</title>
-    <link>https://symkowick.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on ant&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://symkowick.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Post 3</title>
-      <link>https://symkowick.org/posts/post-3/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <title>Flowering Moon</title>
+      <link>http://localhost:1313/posts/flowering-moon/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://symkowick.org/posts/post-3/</guid>
-      <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;bryce-canyon.jpg&#34; alt=&#34;Bryce Canyon National Park&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Sit excepteur do velit veniam mollit in nostrud laboris incididunt ea. Amet eu cillum ut reprehenderit culpa aliquip labore laborum amet sit sit duis. Laborum id proident nostrud dolore laborum reprehenderit quis mollit nulla amet veniam officia id id. Aliquip in deserunt qui magna duis qui pariatur officia sunt deserunt.&lt;/p&gt;
+      <guid>http://localhost:1313/posts/flowering-moon/</guid>
+      <description>&lt;p&gt;Find me a planet with a flowering moon. A core so bright, a membrane so teeming with life that its excess leaks out into orbiting chunks of rock and forces them into the cosmic beauty contest. A world so pre-occupied with growing itself that it doesn&amp;rsquo;t stop to notice it has inspired some other transformation entirely. Oxygen on a moon - an atmosphere at all - would be quite a feat. What makes a moon a moon? Does its classification necessitate an arid, lifeless signature, or can it be allowed to develop a culture, so long as it continues to revolve around the giving entity? Can a moon break off and take its newfound knowledge further into the galaxy, or is it bound by gravitational matrimony?&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Post 2</title>
-      <link>https://symkowick.org/posts/post-2/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <title>Remembering What I Forgot</title>
+      <link>http://localhost:1313/posts/remembering-what-you-forgot/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://symkowick.org/posts/post-2/</guid>
-      <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;
-&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;
+      <guid>http://localhost:1313/posts/remembering-what-you-forgot/</guid>
+      <description>&lt;p&gt;You don&amp;rsquo;t want to waste a chance at love. You spent your life architecting the future you thought you wanted, and you have brought much to fruition. However, in your quest to achieve maximum potency in all things you do, you stumbled into a realm that stripped away the layers of armor you&amp;rsquo;d mistaken for &lt;em&gt;you&lt;/em&gt;. While searching for latent genetic treasures, you accidentally tumbled the lock on what you knew at birth and forgot sometime after preschool. Love is the most valuable experience a human could acquire, not because it is some spiritual marvel or because it is the divine subject of some stellar entanglement, but because that is what our biology craves more than shelter or food alone. Love is the difference between humans and animals, and lifted us from evolutionary struggle amongst violent, terrifying, powerful beasts.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Post 1</title>
-      <link>https://symkowick.org/posts/post-1/</link>
-      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <title>What I Burned</title>
+      <link>http://localhost:1313/posts/what-i-burned/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://symkowick.org/posts/post-1/</guid>
-      <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;
-&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;
+      <guid>http://localhost:1313/posts/what-i-burned/</guid>
+      <description>&lt;p&gt;Guilt is what I burned to finally embrace my role in living. For most of my life I felt like the catalyst in some chemical reaction gone wrong. I am a uniter, a mediator, the product of primal compromise. Guilt from my involvement in the destruction of two lives colored every experience I had, despite monumental effort on the part of my victims to conceal this fact. I craved recognition and refused to accept anything less than self-excellence, but shied away from attention out of certainty that I would disappoint or cause some deeply festering disdain to re-emerge within my audience.&lt;/p&gt;
+&lt;p&gt;I burned this creature that grew inside me when I was 22 years old in a fire of hallucinogenic bliss.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>You&#39;ll Know When</title>
+      <link>http://localhost:1313/posts/youll-know-when/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/youll-know-when/</guid>
+      <description>&lt;p&gt;Sweep the room, clear the dust, and wipe away everything old. Thoughts become stale and tend to hang around long after they are obsolete. It takes a deliberate act of hunting down the leftovers to realize that you are breathing in more than just the fresh air you&amp;rsquo;re going for. Check the cushions for loose change, you&amp;rsquo;ve surely dropped a gem here or there along the way. You don&amp;rsquo;t need to keep a spotless mind, you don&amp;rsquo;t need a sterile workspace. You need a home that responds to clutter with open arms and cleverly showcases its imperfections, as if they were subjects of envy. You need to treat that place like a garden or a forest, using and consuming the fruits and the wood, constantly tending to its health and happiness, and never overworking in the name of maximizing gain. Don&amp;rsquo;t spend your would-be restful hours panicked at the growing state of entropy; this is exactly how things should be. You&amp;rsquo;ll know when it&amp;rsquo;s time to sweep the room.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Career Update Mid-2024</title>
+      <link>http://localhost:1313/posts/career-update-mid2024/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/career-update-mid2024/</guid>
+      <description>&lt;p&gt;When I graduated from California State University, Monterey Bay, I was recruited alongside my capstone project teammates to go work for Booz Allen Hamilton, one of the largest and oldest government contracting companies in America. I had known very few things about that company when I received a job offer: that it was massively financially successful, that Edward Snowden had been employed there in some capacity during his exfiltration of classified documents revealing the illegal &amp;amp; unconstitutional existence of a dragnet wiretapping program led by the NSA, and that if I were a government, I would never pay a company to do something that I felt was necessary to do myself. I decided that an opportunity to jumpstart my career with a reputable and serious firm was too good to let my beliefs about how the world &lt;em&gt;should&lt;/em&gt; work get in the way. I decided to move across the country and let an experience that I hypothesized would anger and disappoint me unfold - to test the validity of adolescent angst against reality.&lt;/p&gt;
+&lt;p&gt;I did excellent work at Booz Allen Hamilton. I was assigned the ugliest, most byzantine projects they could safely assign to new hires and I wrestled meaning from decade old enterprise Java code like an archaeologist dusting off ancient stone tablets, consulting with the ivory-tower-dwelling sages of stackoverflow (&lt;a href=&#34;https://stackoverflow.co/company/press/archive/openai-partnership&#34;&gt;rest in peace&lt;/a&gt;) to bolt on upgrades and earn the respect and admiration of more seasoned colleagues previously tasked with the same job.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I was right&lt;/strong&gt; about a lot of things, namely that every signal I was attuned to screamed &amp;ldquo;this is not the most effective allocation of government funds&amp;rdquo; at varied volume and pitch. Out of politeness, I won&amp;rsquo;t enumerate those signals here, but understand that when I left that job after 2 years against the desire of a company which wanted to retain me and was only incentivized to promote and reward me, I considered I now owed 2 years to an indisputably &lt;strong&gt;good&lt;/strong&gt; cause as penance. It did not sit right with me that so much taxpayer money went straight to the contracting/management consulting industry - which is overwhelmingly comprised of and could be the encompassing description of - the military industrial complex which itself prioritizes money and weapons far higher than its own service members. I &lt;em&gt;believed&lt;/em&gt; this was wrong as a 14 year old reader and viewer of the Iraq war, witnessing far more than a child probably should thanks to the uncensored web of the early 2000s, I &lt;em&gt;believed&lt;/em&gt; it was wrong as a college student attempting to &amp;ldquo;just focus on the cool tech&amp;rdquo; while my university masterfully subdued and realigned me with numerous ethics courses, and now I finally &lt;em&gt;knew&lt;/em&gt; it in a way that none but the crankiest of grandfathers could hand-wave away as youthful naivete.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I was wrong&lt;/strong&gt; in some areas, too, mostly in thinking that these infamous spaces would be inhabited by outright crooks with evil goatees and sinister personalities. I found, nearly everywhere I looked, hardworking, family-oriented, regular people doing their best to make things right for the people they loved in a system they truly believed in. These were not overwhelmingly cishet white men, as I had expected. I saw what could be described as a sign that the dream of America as a cultural melting pot was not completely dead. The presence of black and brown workers felt comforting and familiar for a California transplant in Virginia. Overall, I realized that most people are good, but the cross-section of Americans who have the luxury of the time and education necessary to examine systems wholistically in order to determine righteousness is shamefully small, and even if they &lt;em&gt;did&lt;/em&gt; have that, what does it matter if the only options that put food on the table are problematic?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In America, the only jobs that can sustain a family are overtly or covertly about enriching the rich.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;sub&gt;*This is a generalization I wish to disprove, that saddens me deeply, but still feels right.&lt;/sub&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;In my head, it was a difficult and terrifying journey from &amp;ldquo;a guaranteed, set-for-life, early-retirement&amp;rdquo; quality of life - something that my parents had decidedly &lt;em&gt;not&lt;/em&gt; seen and had worked incalculably hard to make possible for me - to anything more aligned with my frustratingly rigid personal ethics. I decided on moving back to my home state of California and to take the transition realistically, gradually. I would find another lucky opportunity in an income-lateral job working again as a contractor, this time on the personnel &amp;amp; healthcare side of the Dept. of Defense. It was entirely unsexy; for the first few months I had no desk and a broken chair procured from the Dank Closet of Abandoned Office Furniture, and I&amp;rsquo;m pretty sure the whole place was full of actively harmful mold. I worked with some wonderful, smart people during a period of near-total disarray - this was Donald Trump&amp;rsquo;s DoD which felt at times like the inmates running the asylum - but ultimately was still not able to convince myself that it was the right fit.&lt;/p&gt;
+&lt;p&gt;At my first job, I had &lt;em&gt;a version of the best&lt;/em&gt; of business infrastructure and support necessary for software development to make an impact at scale, with no guiding moral mission that would ensure I was &lt;a href=&#34;https://www.thebignewsletter.com/p/why-is-booz-allen-renting-us-back&#34;&gt;really helping those in need&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;At my second job, I had great people with a clear desire and mission to help people who absolutely deserved our help, with little to no oversight or care from the places that absolutely should have cared.&lt;/p&gt;
+&lt;p&gt;My third job could be it. The job to end all job searches. An environmental nonprofit with the mission of &lt;strong&gt;scalable carbon reduction&lt;/strong&gt;. Sure, there it is. Sign me up. Anything I can build to advance that mission, I&amp;rsquo;ll do it. Surely there is no shortage of software need in that space, and I build software and am willing to do it for a less-than-evil wage. It means I don&amp;rsquo;t have to waste my life building better ad-targeting systems while the biosphere crumbles. It means I could put back into the system what I got out of it, maybe even boost it an order of magnitude. It means I could maybe have kids someday and be able to look them in the eye and tell them I &lt;em&gt;tried&lt;/em&gt; to make it better and you can too.&lt;/p&gt;
+&lt;p&gt;Right now, though, the company has a comfortable, tangible path toward consistently reducing carbon emissions in a few states for at least a few years that doesn&amp;rsquo;t include &lt;em&gt;any&lt;/em&gt; software engineering. Due to some things that I fully understand and some that I don&amp;rsquo;t, they&amp;rsquo;re in a position to choose a well-defined, sensible path at the cost of &lt;em&gt;some&lt;/em&gt; talent and a force-multiplier on a gamble that &lt;em&gt;might&lt;/em&gt; allow themselves to be positioned as a nationally-recognized environmental consulting firm. They&amp;rsquo;re at a pivot point: take a big risk, spend a lot more, insert themselves into an entirely new business, or retreat and keep doing the thing that is consistently bringing in money - which they use to help the community. While it is frustrating to be great at your job, to be right about things for 4 years and be largely ignored, then politely shown the door, I cannot in my heart of hearts fault anyone for choosing slower economic growth in 2024 America.&lt;/p&gt;
+&lt;p&gt;It will be a huge personal loss for me to part ways with my team - a group of passionate, empathetic, ethical nerds with seemingly infinite patience - who has stubbornly and with great care attempted to contort ourselves into any shape palatable by the larger organization in furtherance of collective empowerment toward the stated mission.&lt;/p&gt;
+&lt;p&gt;I will lose no sleep over no longer having to sit through the garish displays of toxic positivity which boils my blood due to its suffocating effect on honest communication and the pressure it creates to live in delusion.&lt;/p&gt;
+&lt;p&gt;So, it seems I&amp;rsquo;m at the next &lt;strong&gt;shattering point&lt;/strong&gt;, the point at which the topography of the flaws of the current belief system is revealed and made available for self-study, the point at which any responsible builder should ask themselves: &lt;em&gt;where should I build next&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;I would like it to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be unimpeachably dedicated to a national priority (climate change, voting rights, affordable housing, saving the fucking bees idk)&lt;/li&gt;
+&lt;li&gt;Contribute to the shifting of American culture back toward empathy and safety (undoing decades of pervasive apathy and fearmongering by &amp;ldquo;conservatives&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Provide enough money so that I can buy a house and start a family&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Journalism?</title>
+      <link>http://localhost:1313/posts/computational-journalism/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/computational-journalism/</guid>
+      <description>&lt;p&gt;Friday, June 7th, a warm summer evening as innocuous as any other. A tenuous calm waned in the mind of one computer programmer; he was approaching middle age in an era of, if you took the majority of published news media as a trustworthy source (and he did), abject and incalculable, omnipresent and impending catastrophe. From an early age he yearned to help; anyone and everyone and everything that called to him, often with little thought to the consequences of haphazard volunteering to correct the incorrect, to right wrongs that were much older and wiser than he. Yet, after nearly a decade of working in the real world, he couldn&amp;rsquo;t shake the feeling that his talents (if there were any) were often wasted - writing muscles left to atrophy when the corporation demanded pixel-pushing, creativity made to starve because &amp;ldquo;we don&amp;rsquo;t want better, we want good enough now™ &amp;ldquo;, and a growing sense that generally, the interests of people who employ software engineers were often diametrically opposed to his own. Where he wanted impact, they wanted revenue. Where he wanted education, they wanted mindshare. And most of all, where he wanted a collaborative exchange of the beauty bestowed upon each individual member of society, he found a transactional paradigm in which only the shrewdest players advanced.&lt;/p&gt;
+&lt;p&gt;Everywhere he looked, he saw chaos. The world at once, seemingly without warning, was experiencing itself in full magnitude from every angle at once, a phenomenon he recognized from his own adolescence, though it appeared to be going much worse for the world. If the medium is the message, what is the lesson we are all imbibing with our mass addiction to hypermedia?&lt;/p&gt;
+&lt;p&gt;These thoughts were typical of our anxious protagonist on any given day at any given time, making a friendly chat about nothing at all quite elusive, a fact that annoyed many of his friends some of the time and himself all of the time.&lt;/p&gt;
+&lt;p&gt;However, something interjected this time - a nugget of gold glimmering brightly in the otherwise destitute mines of social media doomscrolling. A job posting? At ProPublica. Hmm. Surely this was just another false hope delivered with carelessness by the greatest purveyor of false hope in a decade: LinkedIn. After all, it had delivered no less than 100 fake opportunities earlier that week alone. While his ego was distracted, gummed up by the ruminative trap of &amp;ldquo;don&amp;rsquo;t get your hopes up&amp;rdquo;, he quietly consented with a runaway thumb to please learn more.&lt;/p&gt;
+&lt;p&gt;A computational journalist? What&amp;rsquo;s that? A lie. He knew what that was - or rather - what that &lt;em&gt;could&lt;/em&gt; be. Certainly, there should be plenty more of those than he could account for currently in the news. Sure, there are those New York Times data-geeks that like to quantify everything conceivable, to plop a huge chunk of javascript and fancy graphs that no one is going to fumble around with in the 17th story about Donald Trump they skimmed that week. That approach, the &amp;ldquo;give them data and they will come&amp;rdquo; crowd who seem to think of data as an end in itself rather than a means to telling a compelling story, had always felt exclusionary and shortsighted to him. After all, he knew the composition of those magical little boxes embedded in the text: it was all just a hunk of likely unreproducible and poorly maintained javascript wrapped five times over in other layers of equally dubious javascript. The computational experiences dreamt up by siloed writers or scientists &lt;em&gt;who dabble&lt;/em&gt; always seemed to lack the illustrative and captivating qualities of staring at good painting or getting lost in a song you just heard for the first time. It wasn&amp;rsquo;t their fault, though - they were playing in a different arena with entirely different rules and could do lots that he couldn&amp;rsquo;t. He just happened to know of one enlightening bit of cosmic irony that gave him a relatively unique perspective, and, generously, an edge. Computer and information scientists of the last half-century worked tirelessly toward a future of &lt;em&gt;hypermedia&lt;/em&gt;, like traditional forms of media but with superpowers. They succeeded beyond belief, only to be robbed of the era they were trying desperately to usher in - the era of infinite canvas - a grand linking of all the disciplines across the globe in every way that could matter - by soulless sycophants whose desire for absolute power made this whole business of publishing on the web so complex it has been relegated to the dark arts - unless of course you are willing to shell out &lt;em&gt;quite&lt;/em&gt; a lot of money.&lt;/p&gt;
+&lt;p&gt;Yeah, computational journalism would be a good thing. We need more of those. He bargained with himself that since he doesn&amp;rsquo;t have any obvious portfolio of works that could fall under such a category, he was unlikely to be considered. That is, unless he was able to very rapidly put together some sort of something to show that he has potential. Just something very quick, less than say&amp;hellip; two 8 hour days&amp;hellip; something that could live inside an existing ProPublica article, that brought in data from external sources, and has an inherent usefulness as a supporting role in clarifying our complex world. Maybe that could work, he thought.&lt;/p&gt;
+&lt;p&gt;He tried to talk himself out of his favorite kind of endeavor (unstructured, fairly mentally arduous, and unlikely to succeed), but it just didn&amp;rsquo;t work. His last concern was something along the lines of &amp;ldquo;how would someone even communicate that sort of thing&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protein</title>
+      <link>http://localhost:1313/posts/protein/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/protein/</guid>
+      <description>&lt;p&gt;While poking around the web researching nootropics to add to the &amp;ldquo;loosely experiment with substances that make capitalism more tolerable&amp;rdquo;, I came across &lt;a href=&#34;https://examine.com&#34;&gt;examine&lt;/a&gt;, a website whose headline reads: &amp;ldquo;Nutrition and supplement information you can trust&amp;rdquo;. I&amp;rsquo;m always skeptical of any website that does anything, because of how horribly uncreative people have ruined the web. This one seemed to contain a bunch of legitimate medical research / academic papers distilled into summaries and guides by real, actual humans. Sorta like if &lt;a href=&#34;https://erowid.org&#34;&gt;Erowid&lt;/a&gt; and webmd (eek!) had a baby.&lt;/p&gt;
+&lt;p&gt;Well, it turns out, I&amp;rsquo;m supposed to be consuming 110+ grams of protein every day, assuming normal (minimal) levels of physical activity. I never knew that. I typically ate ~30g of protein a day for &amp;hellip;the entire duration of my life aside from a short period of intense exercise during which I felt it was &lt;em&gt;obvious&lt;/em&gt; and &lt;em&gt;necessary&lt;/em&gt; to gulp down protein.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been about 10 days and I feel &lt;em&gt;much, much better&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks protein.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enwebbed</title>
+      <link>http://localhost:1313/posts/enwebbed/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/enwebbed/</guid>
+      <description>&lt;p&gt;I believe that the web survives because of this strange phenomenon where you can see one of my thoughts and become my friend for 45 seconds. You. Wherever you are in relation to me temporally, culturally, financially; regardless of my status, my job title, my choice of clothing or even my general temperament. You don&amp;rsquo;t know anything about me, save for this one thought that crawled out of the perplexagonal grunt machine that rests behind my eyes. I become defined entirely by a single interaction I had with a machine, in isolation, and you, upon discovery of a mental doppleganger or refreshingly untrodden territory, become a member of a tribe which may not yet exist.  With explicit consent and unbelievable ease, our connection could be as short as a moment and as deep as the emotional core.&lt;/p&gt;
+&lt;p&gt;For a decade, this was our collective hallucination: open, distributed, and inclusive world-building. The internet exploded into consciousness and &lt;em&gt;demanded&lt;/em&gt; we spin a web together! Technology developed under the guise of machinery of war went moonlighting as a means for liberation. I caught a glimpse of this event - tilting and clicking on the beige box in my grandparents&amp;rsquo; garage before I could fully read. I didn&amp;rsquo;t really know what I was seeing and took it all for granted until much later, now that the deterioration of the magic is psychologically destabilizing. The web used to strategically link us together on-demand for great moments in a sort of infinite show-and-tell. Not anymore.&lt;/p&gt;
+&lt;p&gt;Instead, people are tied together in knots by a cabal of addiction-peddling supervillains. You are not allowed to forget your high school crush; You must remain connected to your middle school bully; their marriage to each other is required viewing on your timeline. Every true moment of human interaction in your life is now an exploitable trigger point for the grand capitalist&amp;rsquo;s sale of | Sustainable | Free Range | Micromodal | Couples&amp;rsquo; Matching Underwear.&lt;/p&gt;
+&lt;p&gt;All of your connections are superficial. Sorry, we don&amp;rsquo;t support collaboration or nuanced concern, you&amp;rsquo;ll have to choose one of the five Emotion Badges handcrafted by our world-class Emotioneers . Not expressive enough? You can pull a gif from the Unified Historitainment Stream! As long as it&amp;rsquo;s not too taboo, deemed too critical of class or poverty, or infringes upon the beliefs of any nation we seek to do business with now or at any point in the future! Oh, and the first 5 rows are paid ads.&lt;/p&gt;
+&lt;p&gt;I miss the old web when people &lt;em&gt;paid&lt;/em&gt; attention - always their own - a home where I was never algorithimically assigned a fraction of my peers&amp;rsquo; zombified lifeforce based on innumerable, unknowable transactions stamped across 12 availability zones faster than I can blink.&lt;/p&gt;
+&lt;p&gt;Please, link me your blog. No, I won&amp;rsquo;t join threads.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hermits</title>
-      <link>https://symkowick.org/posts/hermit/</link>
+      <link>http://localhost:1313/posts/hermit/</link>
       <pubDate>Mon, 19 Apr 2021 22:41:37 -0700</pubDate>
       
-      <guid>https://symkowick.org/posts/hermit/</guid>
+      <guid>http://localhost:1313/posts/hermit/</guid>
       <description>&lt;p&gt;The hermit is a beautiful bastard of a creature. Each hermit was once a vibrant, loving communitarian, known amongst their peers for superior intellect and fervent pursuit of knowledge. When the hermit is challenged, it toils away in isolation, stretching, lifting, pulling, rotating their mind in every which way as if to physically mimic the shape of the answer they seek. For the hermit, no solution is without a perceptible angle, it is simply a matter of finding the right squint. Many years of this skill building will lead the hermit into a dank and dusty lifestyle populated mostly by unfinished books, both read and written. If a hermit is lucky, they will cross paths with a witch, and become enchanted by a puzzle which does not appear to contain any problems at all. At this point, the hermit is stumped, but will refuse to let old habits die and instead spend a lifetime of mental cycles attempting to re-orient its observatory organs in order to properly size up the subject of mystery. What a beautiful problem.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New Moves</title>
-      <link>https://symkowick.org/posts/new-moves/</link>
+      <link>http://localhost:1313/posts/new-moves/</link>
       <pubDate>Sun, 28 Feb 2021 13:32:00 -0800</pubDate>
       
-      <guid>https://symkowick.org/posts/new-moves/</guid>
+      <guid>http://localhost:1313/posts/new-moves/</guid>
       <description>&lt;p&gt;When I look at a fretboard, I am aware that I am seeing something beyond the wood. I know that somewhere within, every song I will ever and &lt;em&gt;could&lt;/em&gt; ever stumble into writing is lying dormant, cut into shy, inconspicuous fragments and scattered across six strings. I know it is the task and pleasure of my life to dig out the secrets which, while locked away in the corpse of a tree I have never met, are undeniably my own. I know these secrets do not live in me; they are transfused through the gentle kissing of rosewood and fingertips, and expose the things I seek to be.&lt;/p&gt;
 &lt;p&gt;I wonder what a dancer sees when she looks upon herself. Does her body serve as the
 conduit for that same uncanny void, or is each routine cultivated in a garden of self-discovery with care and intentionality? Is elegance in movement an inseparable product of the feet and the ground they touch? Could I learn to move myself like an instrument in the same way I’ve learned to move sound?&lt;/p&gt;
@@ -68,10 +150,10 @@ conduit for that same uncanny void, or is each routine cultivated in a garden of
     
     <item>
       <title>Public University or Corporate Intellect Farm?</title>
-      <link>https://symkowick.org/posts/public-university-or-corporate-intellect-farm/</link>
+      <link>http://localhost:1313/posts/public-university-or-corporate-intellect-farm/</link>
       <pubDate>Fri, 13 Nov 2020 20:52:13 -0800</pubDate>
       
-      <guid>https://symkowick.org/posts/public-university-or-corporate-intellect-farm/</guid>
+      <guid>http://localhost:1313/posts/public-university-or-corporate-intellect-farm/</guid>
       <description>&lt;p&gt;Any system of university exists to create an informed and capable public, not, as
 some neoconservative think-tanks might have you believe, as simply a
 mechanism for employment in service of the Great Economic Machine.
@@ -156,10 +238,10 @@ from predatory data brokers and toward our collective well-being.&lt;/p&gt;
     
     <item>
       <title>Tiny Invisible Machines</title>
-      <link>https://symkowick.org/posts/tiny-invisible-machines/</link>
+      <link>http://localhost:1313/posts/tiny-invisible-machines/</link>
       <pubDate>Sun, 26 Jul 2020 20:39:54 -0700</pubDate>
       
-      <guid>https://symkowick.org/posts/tiny-invisible-machines/</guid>
+      <guid>http://localhost:1313/posts/tiny-invisible-machines/</guid>
       <description>&lt;p&gt;At this exact moment on Earth, nature’s symphony is accompanied by the persistent hum of billions of tiny machines we have embedded into reality. These machines are dictated by the slightest variance in electrical impulses and power the world economy, yet only a small subset of us are privileged enough to ponder the implications of such invisible architecture. Fewer still have the magical combination of ability, power, and luck required to influence the design and implementation of these systems which will govern &lt;em&gt;all&lt;/em&gt; of our lives. That is why as software developers, we have an urgent responsibility to build &lt;em&gt;strictly and solely&lt;/em&gt; systems which respect the rights of its users, to educate our peers in other disciplines about the systems and their common pitfalls, and to demand public ownership of essential infrastructure.&lt;/p&gt;
 &lt;p&gt;You are likely not aware that the software you interact with is imbued with ulterior motives. How can a bunch of words and buttons on a screen &lt;em&gt;disrespect&lt;/em&gt; you? Thanks to the cunning legal teams behind major commercial software companies, the apps you run on your phone, tablet, and computer are allowed to perform egregious violations of your privacy while you watch your friends’ social broadcasts.  And in the United States, thanks to a defanged regulatory body and increasing oligarchic control of the legislature, the companies which siphon the most data about your personal habits grow the fastest - thus incentivizing &lt;em&gt;all&lt;/em&gt; companies to adopt this strategy or die. The practice of collecting, processing, and analyzing users’ behavior to create digital shadows upon which advertising campaigns can modeled gives way to the absurdly high stock valuations which currently prop up our economy. By commodifying individuality, Big Tech has laid the groundwork for a marketplace of souls. How much are you worth?&lt;/p&gt;
 &lt;p&gt;Thankfully, a &lt;a href=&#34;https://www.fsf.org/about/&#34;&gt;free software movement&lt;/a&gt; exists to provide shelter from these exploitative platforms. Free software bestows “four freedoms” onto its users:&lt;/p&gt;
@@ -175,11 +257,11 @@ from predatory data brokers and toward our collective well-being.&lt;/p&gt;
     
     <item>
       <title>Open Web Rant</title>
-      <link>https://symkowick.org/posts/open-web-rant/</link>
+      <link>http://localhost:1313/posts/open-web-rant/</link>
       <pubDate>Fri, 10 Jul 2020 13:30:52 -0700</pubDate>
       
-      <guid>https://symkowick.org/posts/open-web-rant/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/spiderweb.jpg&#34; alt=&#34;Spiderweb&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/open-web-rant/</guid>
+      <description>&lt;image src=&#34;../images/spiderweb.jpg&#34; width=&#34;480&#34; height=&#34;320&#34;&gt;
 &lt;h2 id=&#34;the-web-is-being-polluted-by-capital&#34;&gt;The Web is Being Polluted by Capital&lt;/h2&gt;
 &lt;p&gt;I believe that the internet should be a freely available utility for all people. In its
 purest form, the internet is the technology that enables the web - a portal through which
@@ -216,8 +298,7 @@ within one of the largest (and oldest) computing
 organizations in the world - The IEEE (Institute of Electrical and Electronics Engineers) Computer
 Society! The preamble begins below:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Computers have a central and growing role in commerce, industry, government, medicine, education, entertainment and society at large. Software engineers are those who contribute by direct participation or by teaching, to the analysis, specification, design, development, certification, maintenance and testing of software systems. Because of their roles in developing software systems, software engineers have significant opportunities to do good or cause harm, to enable others to do good or cause harm, or to influence others to do good or cause harm. To ensure, as much as possible, that their efforts will be used for good, software engineers must commit themselves to making software engineering a beneficial and respected profession. In accordance with that commitment, software engineers shall adhere to the following Code of Ethics and Professional Practice. &lt;a href=&#34;https://www.computer.org/education/code-of-ethics&#34;&gt;IEEE CS&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Computers have a central and growing role in commerce, industry, government, medicine, education, entertainment and society at large. Software engineers are those who contribute by direct participation or by teaching, to the analysis, specification, design, development, certification, maintenance and testing of software systems. Because of their roles in developing software systems, software engineers have significant opportunities to do good or cause harm, to enable others to do good or cause harm, or to influence others to do good or cause harm. To ensure, as much as possible, that their efforts will be used for good, software engineers must commit themselves to making software engineering a beneficial and respected profession. In accordance with that commitment, software engineers shall adhere to the following Code of Ethics and Professional Practice. &lt;a href=&#34;https://www.computer.org/education/code-of-ethics&#34;&gt;IEEE CS&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I&amp;rsquo;d like to highlight the inclusion of the line &lt;em&gt;&amp;ldquo;To ensure&amp;hellip;that their efforts will be
 used for good, software engineers must commit themselves to making software engineering a
 beneficial and respected profession&amp;rdquo;&lt;/em&gt; as by now it has become clear to the average citizen that we
@@ -275,11 +356,116 @@ Copyright © 1999 by the Institute for Electrical and Electronics Engineers, Inc
     </item>
     
     <item>
+      <title>Agile for Your Org</title>
+      <link>http://localhost:1313/posts/agile-for-your-org/</link>
+      <pubDate>Wed, 01 Jul 2020 17:04:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/agile-for-your-org/</guid>
+      <description>&lt;h2 id=&#34;what-is-agile&#34;&gt;What is Agile?&lt;/h2&gt;
+&lt;p&gt;Agile is a methodology for doing work - in my case that work is building Software. I&amp;rsquo;m
+sure at this point, millions of words have been written about Agile development - most by
+people much smarter and more credentialed than me! I encourage you to read some of the
+&lt;a href=&#34;https://agilemanifesto.org/&#34;&gt;sacred texts&lt;/a&gt;, but I&amp;rsquo;m going to tell you what works for
+&lt;em&gt;me&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-4-values&#34;&gt;The 4 Values&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Individuals and interactions over processes and tools&lt;/li&gt;
+&lt;li&gt;Working software over comprehensive documentation&lt;/li&gt;
+&lt;li&gt;Customer collaboration over contract negotiation&lt;/li&gt;
+&lt;li&gt;Responding to change over following a plan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tl;dr be &lt;em&gt;proactive&lt;/em&gt;, &lt;em&gt;open-minded&lt;/em&gt;, and &lt;em&gt;dedicated&lt;/em&gt; to a creative journey that may not
+progress in a straight line!&lt;/p&gt;
+&lt;p&gt;From a development standpoint, this is where I start:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What are we building?&lt;/li&gt;
+&lt;li&gt;Why are we building it?&lt;/li&gt;
+&lt;li&gt;How do we do it without going insane?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Few people who &lt;em&gt;use&lt;/em&gt; software ever have to grapple with the philosophical ramifications
+of codifying obscure incantations and etching them onto millions of devices. Most people
+who &lt;em&gt;make&lt;/em&gt; it understand perfectly well how coercing a machine into performing for humans
+proves hazardous to the ego. So, we benefit in the long run by asking a lot of questions
+up front. Not &lt;em&gt;all&lt;/em&gt; the questions - the client is a living, breathing, opinion-changing
+beast, but just the bare necessities to give the idea corporeal form. This is called an
+MVP - or Minimum Viable Product - and represents the absolute dinkiest version of the
+product that can &lt;em&gt;still provide value&lt;/em&gt; to the users.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-form-your-mvp&#34;&gt;How to Form Your MVP&lt;/h2&gt;
+&lt;p&gt;I like to think of generating an MVP like a police sketch artist drawing from a witness&#39;
+testimony. In an ideal world, you&amp;rsquo;d be able to just build the product from an exact set of
+requirements. Unfortunately, we rarely get a complete &amp;amp; accurate picture from a single
+source - a witness spots a tall man wearing a shirt - how many tall men wearing shirts
+exist in the world? Likewise, clients may not have a clear or concise vision for the
+product they need. It is your job (as a developer, product manager, or other agile
+stakeholder) to help extract the vital functions of the would-be application and glue
+them together in a pleasant, coherent manner.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collect requirements in markdown format&lt;/li&gt;
+&lt;li&gt;Create mockups&lt;/li&gt;
+&lt;li&gt;Share mockups with client&lt;/li&gt;
+&lt;li&gt;Collect feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;TODO: create cycle diagram above&lt;/p&gt;
+&lt;p&gt;Things that facilitate your rapid iteration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Version Control System (git)&lt;/li&gt;
+&lt;li&gt;Kanban (trello, jira)&lt;/li&gt;
+&lt;li&gt;Collaboration (slack, teams, jitsi)&lt;/li&gt;
+&lt;li&gt;Continuous Delivery/Integration (netlify, github, jenkins)&lt;/li&gt;
+&lt;li&gt;KISS documentation (readme, &lt;a href=&#34;https://rust-lang.github.io/mdBook/&#34;&gt;mdbook&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Responsibility of Privilege</title>
+      <link>http://localhost:1313/posts/responsibility-of-privilege/</link>
+      <pubDate>Sat, 20 Jun 2020 18:44:46 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/responsibility-of-privilege/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;At this exact moment on Earth, nature&amp;rsquo;s symphony is accompanied by the persisten hum of
+billions of tiny machines we have embedded into reality. These machines are dictated by
+the slightest variance in electrical impulses and power the world economy, yet only a
+small subset of us are privileged enough to ponder the implications fo such invisible
+architecture. Fewer still have the magical combination of ability, power, and luck
+required to actually influence the design and implementation of these systems which will
+govern &lt;em&gt;all&lt;/em&gt; of our lives. That is why as software developers, we have an urgent
+responsibility to build &lt;em&gt;strictly and solely&lt;/em&gt; systems which respect the rights of its
+users, to educate our peers in other disciplines about the systems and their common
+pitfalls, and to demand public ownership of essential infrastructure.&lt;/p&gt;
+&lt;h2 id=&#34;free-software-surveillance-state-oligarchy&#34;&gt;Free Software, Surveillance State, Oligarchy&lt;/h2&gt;
+&lt;p&gt;talk about&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Surveillance software&lt;/li&gt;
+&lt;li&gt;Oligarchy&lt;/li&gt;
+&lt;li&gt;software licensing
+&lt;ul&gt;
+&lt;li&gt;combines the former 2&lt;/li&gt;
+&lt;li&gt;neutralizes oligarchic power&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education-digital-literacy-dark-patterns&#34;&gt;Education, Digital Literacy, Dark Patterns&lt;/h2&gt;
+&lt;h2 id=&#34;municipal-fiber-internet-norway-commits-to-free-software-government-contracting&#34;&gt;Municipal Fiber Internet, Norway Commits to Free Software, Government Contracting&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Small Web Exposition</title>
+      <link>http://localhost:1313/posts/small-web-exposition/</link>
+      <pubDate>Sat, 13 Jun 2020 11:27:12 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/small-web-exposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Does Your Terminal Spark Joy?</title>
-      <link>https://symkowick.org/posts/fancy-terminal-tools/</link>
+      <link>http://localhost:1313/posts/fancy-terminal-tools/</link>
       <pubDate>Wed, 20 May 2020 21:19:27 -0700</pubDate>
       
-      <guid>https://symkowick.org/posts/fancy-terminal-tools/</guid>
+      <guid>http://localhost:1313/posts/fancy-terminal-tools/</guid>
       <description>&lt;p&gt;While the list of development tools we have to choose from grows every day, the
 humble unix terminal beckons us with simplicity and the promise of a
 distraction-free experience. Once you&amp;rsquo;ve conquered the initial learning curve
@@ -296,12 +482,16 @@ common one-line examples of how a program is used. Yes, you should still read
 the man page, but this can save you some time.&lt;/p&gt;
 &lt;p&gt;Compare the results below for Hugo, a static site generator:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ man hugo
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/man-hugo.gif&#34; alt=&#34;man&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;figure&gt;&lt;img src=&#34;../images/man-hugo.gif&#34; width=&#34;70%&#34; height=&#34;65%&#34;&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;lots of info there&amp;hellip;could be a while!&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ tldr hugo
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;There we go! Immediately I know how the developer of hugo intends me to use it -
 just type &lt;strong&gt;hugo new site&lt;/strong&gt; in any directory I&amp;rsquo;d like to create my website.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../images/tldr-hugo.gif&#34; alt=&#34;tldr&#34;&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;../images/tldr-hugo.gif&#34; width=&#34;70%&#34; height=&#34;65%&#34;&gt;
+&lt;/figure&gt;
+
 &lt;h2 id=&#34;2-cat---bat&#34;&gt;2. Cat -&amp;gt; Bat&lt;/h2&gt;
 &lt;p&gt;The &lt;a href=&#34;http://man7.org/linux/man-pages/man1/cat.1.html&#34;&gt;&lt;strong&gt;Cat&lt;/strong&gt;&lt;/a&gt; command is pretty much
 unavoidable when working with the terminal - it allows concatenation of files
@@ -310,12 +500,16 @@ spit out the contents of a file!&lt;/p&gt;
 &lt;p&gt;If I wanted to see the contents of a JavaScript file, I would simply:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat example.js
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;and we would get the contents of the file, simply and without fanfare:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../images/cat.gif&#34; alt=&#34;cat&#34;&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;../images/cat.gif&#34; width=&#34;70%&#34; height=&#34;65%&#34;&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;This is great, but the &lt;a href=&#34;https://github.com/sharkdp/bat&#34;&gt;&lt;strong&gt;bat&lt;/strong&gt;&lt;/a&gt; command improves
 readability of code by adding line numbers and syntax highlighting, all without
 sacrificing POSIX compatibility for piping into other programs.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ batcat example.js
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/bat.gif&#34; alt=&#34;bat&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;figure&gt;&lt;img src=&#34;../images/bat.gif&#34; width=&#34;70%&#34; height=&#34;65%&#34;&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Awesome! It even opens in a pager (like the &lt;em&gt;less&lt;/em&gt; command) for vertical
 scrolling. If you want this functionality by using the same keyword - cat - you
 can set up an alias in your shell. I use &lt;a href=&#34;http://www.zsh.org/&#34;&gt;zsh&lt;/a&gt;, and have
@@ -326,14 +520,18 @@ aliased bat as follows:&lt;/p&gt;
 directories are taking up the most space - useful when you&amp;rsquo;ve run out of said
 space!&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ du
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/du.gif&#34; alt=&#34;du&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;figure&gt;&lt;img src=&#34;../images/du.gif&#34; width=&#34;70%&#34; height=&#34;65%&#34;&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;er, ok, looks like we are listing folders and files with numbers prepended to
 their entries. Hmm. You can see that it&amp;rsquo;s gonna take some grokking to make sense of this
 data.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s try the rust replacement, &lt;a href=&#34;https://github.com/bootandy/dust&#34;&gt;&lt;strong&gt;dust&lt;/strong&gt;&lt;/a&gt; - like du but more intuitive, (straight from the
 tool website)!&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ dust
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/dust.gif&#34; alt=&#34;dust&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;figure&gt;&lt;img src=&#34;../images/dust.gif&#34; width=&#34;70%&#34; height=&#34;65%&#34;&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Wow, right away we are given a hierarchical view of the items within the
 Downloads folder - accompanied by a graph of size by percentage - or how much of
 the total folder size each subfolder is responsible for. Neat! Looks like that
@@ -348,12 +546,16 @@ sizes, permissions, and more. The below example will show off listing all
 (including hidden) files in the &lt;strong&gt;-l&lt;/strong&gt; long format to get those other items I
 mentioned.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ ls -la --color
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/ls.gif&#34; alt=&#34;ls&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;figure&gt;&lt;img src=&#34;../images/ls.gif&#34; width=&#34;70%&#34; height=&#34;65%&#34;&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;This looks all right, and &lt;strong&gt;ls&lt;/strong&gt; is pretty configurable as far as output formats.
 However, with &lt;a href=&#34;https://the.exa.website/&#34;&gt;&lt;strong&gt;exa&lt;/strong&gt;&lt;/a&gt; we get some enhanced color and
 sane defaults.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ exa -la
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;../images/exa.gif&#34; alt=&#34;exa&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;figure&gt;&lt;img src=&#34;../images/exa.gif&#34; width=&#34;70%&#34; height=&#34;65%&#34;&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;See how the permissions and owners are also color-coordinated? Nice. The exa
 website also notes that exa runs in parallel, so you might see much faster
 performance working in huge directories.&lt;/p&gt;
@@ -373,11 +575,31 @@ unstructured text.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Data Pollution</title>
+      <link>http://localhost:1313/posts/data-pollution/</link>
+      <pubDate>Sun, 12 Apr 2020 15:33:26 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/data-pollution/</guid>
+      <description>&lt;h1 id=&#34;data-pollution---strain-on-the-cognitive-brain&#34;&gt;Data Pollution - Strain on the Cognitive Brain&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;&#34; alt=&#34;Medium&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Data Should We Share</title>
+      <link>http://localhost:1313/posts/what-data-should-we-share/</link>
+      <pubDate>Sun, 12 Apr 2020 15:25:59 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/what-data-should-we-share/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Work Is Cancelled, Thanks COVID-19</title>
-      <link>https://symkowick.org/posts/work-is-cancelled/</link>
+      <link>http://localhost:1313/posts/work-is-cancelled/</link>
       <pubDate>Thu, 26 Mar 2020 10:56:02 -0700</pubDate>
       
-      <guid>https://symkowick.org/posts/work-is-cancelled/</guid>
+      <guid>http://localhost:1313/posts/work-is-cancelled/</guid>
       <description>&lt;p&gt;&lt;iframe title=&#34;In  the US, confirmed coronavirus cases double every 2nd to 3rd day. China, South Korea, Japan have already a flat curve.    &#34; aria-label=&#34;Interactive line chart&#34; id=&#34;datawrapper-chart-fjeZe&#34; src=&#34;//datawrapper.dwcdn.net/fjeZe/1/&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34;     style=&#34;background: white; padding: 25px; width: 0; min-width: 100% !important; border: none;&#34; height=&#34;675&#34;&gt;&lt;/iframe&gt;&lt;script type=&#34;text/javascript&#34;&gt;!function(){&#34;use stric    t&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var     t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrappe    r-height&#34;][e]+&#34;px&#34;)}})}();                                                                                                              
     24 &lt;/script&gt;
    
@@ -392,11 +614,22 @@ unstructured text.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Interviewing for Software Developer Positions</title>
+      <link>http://localhost:1313/posts/interviewing-for-software-developer-positions/</link>
+      <pubDate>Sat, 15 Feb 2020 18:24:46 -0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/interviewing-for-software-developer-positions/</guid>
+      <description>&lt;h1 id=&#34;the-search&#34;&gt;The Search&lt;/h1&gt;
+&lt;p&gt;Finding a job in the software development field can be daunting even to seasoned candidates. From automated recruiter spam to anxiety-inducing &amp;ldquo;coding challenges&amp;rdquo;, the stress of trying to prove yourself to strangers often stops qualified developers from even applying. We know the methods used to verify a person&amp;rsquo;s competence are misguided and discriminatory (link), yet software companies continue to prop up a cottage industry of test-taking shops in search for the fabled 10x engineer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Development Environment #1</title>
-      <link>https://symkowick.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 13 Jan 2020 20:25:19 -0800</pubDate>
       
-      <guid>https://symkowick.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello. Lately I’ve been trying to shape myself into a craftsman who works in a few different mediums at least a few times per week. I find that writing about my desires for technical growth keeps my honest about progression. Purposeful declaration of intent is the first step to reaching beyond yourself, right? I’ll explain how I work, how I &lt;em&gt;wish&lt;/em&gt; I worked, and share the single nugget of wisdom I mined this week.&lt;/p&gt;
 &lt;p&gt;Android Development:&lt;/p&gt;
 &lt;ul&gt;
